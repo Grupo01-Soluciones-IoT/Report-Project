@@ -31,7 +31,7 @@
       Soy Jonatan Curi Montero, me encuentro estudiando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en los lenguajes TypeScript y Javascript. También, en frameworks como Angular, Vue y .Net. Tengo experiencia en el desarrollo de aplicaciones web, enfocandome principalmente en el Frontend. Considero que la comunicación es una característica fundamental en el equipo de trabajo. Profesionalmente, me encuentro haciendo practicas en una empresa que brinda servicios de contabilidad y facturación electronica en aplicacion web.
     </td>
     <td style="vertical-align: top; width: 60%;">
-      <img src="" alt="Integrante 2 del grupo" width="1080"/>
+      <img src="images/profile-jonatan.jpg" alt="Integrante 2 del grupo" width="1080"/>
     </td>
   </tr>
 </table>
