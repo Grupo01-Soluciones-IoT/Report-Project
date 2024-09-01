@@ -44,4 +44,6 @@
 
 ## 3.3. Impact Mapping
    
+<img src="images/IAgroT Impact Mapping.png">
+
 ## 3.4. Product Backlog
