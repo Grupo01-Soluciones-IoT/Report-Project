@@ -2,6 +2,8 @@
 
 ## 3.1. To-Be Scenario Mapping
 
+<img src="images/IAgroT To-be scenario mapping.png">
+
 ## 3.2. User Stories
 
 ### Épicas
