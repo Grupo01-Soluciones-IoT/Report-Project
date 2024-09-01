@@ -34,6 +34,17 @@
       <img src="images/profile-jonatan.jpg" alt="Integrante 2 del grupo" width="1080"/>
     </td>
   </tr>
+  
+  <tr>
+    <td style="vertical-align: top; width: 40%;">
+       Soy Clara Valverde Salazar, me encuentro estudiando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Poseo conocimientos en los lenguajes Javascript, Python y C#. También, en frameworks como Angular y .Net. Tengo experiencia en gestión de proyectos usando herramientas como Jira Software, Jira services Management, Confluence y Bigbucket. Profesionalmente, me encuentro haciendo practicas en una empresa desarrolladora de software que brinda servicios de soporte, consultoria y infraestructura en aplicacion web.
+    </td>
+    <td style="vertical-align: top; width: 60%;">
+      <img src="images/profile-angie.jpeg" alt="Integrante 3 del grupo" width="1080"/>
+    </td>
+  </tr>
+  
+
 </table>
 
 ## 1.2. Solution Profile
