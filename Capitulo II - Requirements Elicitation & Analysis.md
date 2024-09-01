@@ -57,6 +57,8 @@
 
 ### 2.3.5. As-is Scenario Mapping
 
+<img src="images/IAgroT As-is Scenario Mapping.png">
+
 ## Ubiquitous Language
 
 - **Climate Resilience (Resiliencia Climática)**  
