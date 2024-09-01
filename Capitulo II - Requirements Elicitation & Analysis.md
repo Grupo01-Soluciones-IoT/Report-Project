@@ -297,6 +297,21 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+### Estrategia: Reforzamiento de la Marca
+**Táctica:** Dado que **IAgroT** tiene una misión clara de mejorar la eficiencia agrícola a través de la tecnología, crearemos campañas de marketing que destaquen casos de éxito reales de agricultores que han utilizado nuestra solución. Utilizaremos estos testimonios y estudios de caso en nuestros materiales promocionales para construir credibilidad y reforzar la identidad de marca como líder en tecnología agrícola.
+
+### Estrategia: Innovación en Producto
+**Táctica:** Blindaremos nuestra marca bajo el marco del uso de nuevas funcionalidades que integren tecnologías emergentes, como inteligencia artificial para análisis predictivo de cultivos, o el uso de drones para monitoreo remoto.
+
+### Estrategia: Posicionamiento Competitivo
+**Táctica:** A partir del análisis FODA realizado en el capítulo de requisitos, enfocaremos nuestros esfuerzos en comunicar las fortalezas de nuestra solución frente a los competidores en nuestros canales de marketing. Por ejemplo, si uno de los puntos fuertes identificados es la usabilidad superior de nuestra aplicación, desarrollaremos demostraciones en vivo, tutoriales en video y webinars para mostrar esta ventaja.
+
+### Estrategia: Pricing Competitivo
+**Táctica:** El análisis competitivo muestra que nuestros competidores tienen precios más bajos pero menos funcionalidades, desarrollaremos una estrategia de precios que ofrezca más valor por un precio similar o desarrollar versiones del producto más accesibles para pequeñas y medianas empresas agrícolas que no necesitan todas las funcionalidades avanzadas.
+
+### Estrategia: Colaboración con Instituciones Educativas
+**Táctica:** Aprovechando la conexión con la UPC, estableceremos colaboraciones para desarrollar nuevas investigaciones o programas educativos que utilicen nuestra tecnología propuesta. Esto no solo podría mejorar nuestro producto sino también establecer a **IAgroT** como un referente en la innovación tecnológica en la agricultura.
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas

@@ -43,6 +43,15 @@
       <img src="images/profile-angie.jpeg" alt="Integrante 3 del grupo" width="1080"/>
     </td>
   </tr>
+
+  <tr>
+    <td style="vertical-align: top; width: 40%;">
+      Soy Willy David Valentin Ricaldi, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Actualmente me encuentro trabajando en múltiples proyectos que involucran desarrollo, gestión y mantenemiento de Software para diversos sectores siguiendo y ejerciendo la filosofía DevSecOps. Tengo experiencia trabajando con tecnologías Frontend y Backend como Angular, React, Net, Spring Boot, Next y las diversas tecnologías que sostienen estos frameworks. Espero aportar mi conocimiento y experiencia al equipo para que esta idea salga a flote y pueda servir a las personas a transformarse digitalmente.
+    </td>
+    <td style="vertical-align: top; width: 60%;">
+      <img src="images/profile-willy.jpeg" alt="Integrante 3 del grupo" width="1080"/>
+    </td>
+  </tr>
   
 
 </table>
