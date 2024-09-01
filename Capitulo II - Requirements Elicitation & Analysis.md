@@ -21,19 +21,19 @@
     <td colspan="2" rowspan="5">(En la cabecera colocar por cada competidor nombre y logo)</td>
     <td colspan="2" rowspan="5">IAgroT
 <br>
-<img src="assets/logo.png" width="100" height="70" >
+<img src="images/logo.png" width="100" height="70" >
 </td>
     <td rowspan="5">Farmers Edge
 <br>
-<img src="assets/medicap.png" width="130" height="38" >
+<img src="images/medicap.png" width="130" height="38" >
 </td>
     <td rowspan="5">John Deere Operations Center
 <br>
-<img src="assets/mediquo.png" width="140" height="70" >
+<img src="images/mediquo.png" width="140" height="70" >
 </td>
     <td rowspan="5">Climate FieldView
 <br>
-<img src="assets/heal.png" width="90" height="90" >
+<img src="images/heal.png" width="90" height="90" >
 </td>
   </tr>
   <tr>
