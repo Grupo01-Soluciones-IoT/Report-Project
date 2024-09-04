@@ -18,3 +18,8 @@
 #### 4.1.3.1 Software Architecture System Landscape Diagram 
 
 #### 4.1.3.2 Software Architecture Context Level Diagrams 
+
+En nuestro diagrama de contexto se presentan las relaciones fundamentales de IAgroT. Esta aplicación web y móvil está conectada principalmente con usuarios distintos y dos sistemas externos, el Payment System para llevar a cabo transacciones de pago y el Notification System para enviar alertas y notificaciones. 
+
+<img src="images/IAgroT Context Diagram.png">
+
