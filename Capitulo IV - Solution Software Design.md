@@ -23,3 +23,8 @@ En nuestro diagrama de contexto se presentan las relaciones fundamentales de IAg
 
 <img src="images/IAgroT Context Diagram.png">
 
+#### 4.1.3.3 Software Architecture Container Level Diagrams 
+
+Con este diagrama se puede observar nuestro proyecto de manera más expandida. Se muestra la aplicación web, landing page, aplicación móvil cada una realizando llamadas API a los distintos Bounded Context que interactuan con los sistemas externos de Payment. Además, a su vez interactuarán con un broker que irá conectado a la Base de Datos.
+
+<img src="images/IAgroT Container Diagram.png">
