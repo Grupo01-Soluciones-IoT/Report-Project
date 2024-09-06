@@ -356,6 +356,25 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 ### 2.3.1. User Personas
 
 ### 2.3.2. User Task Matrix
+### María Pineda - User Task Matrix
+
+| **Descripción**                                      | **Importancia** | **Frecuencia** |
+|------------------------------------------------------|-----------------|----------------|
+| Supervisar el estado de los cultivos                 | Alta            | Siempre        |
+| Preparar el terreno para la siembra                  | Alta            | Siempre        |
+| Monitorear las condiciones climáticas                | Alta            | Siempre        |
+| Regar los cultivos manualmente o con sistemas simples| Media           | A menudo       |
+| Aplicar fertilizantes o pesticidas                   | Alta            | A menudo       |
+| Revisar los precios de mercado                       | Media           | A menudo       |
+| Buscar nuevas técnicas de cultivo                    | Alta            | A menudo       |
+| Vender productos en el mercado local                 | Alta            | A menudo       |
+| Colaborar con otros agricultores                     | Media           | A veces        |
+| Consultar expertos agrícolas o técnicos              | Media           | A veces        |
+| Transportar productos a la ciudad                    | Media           | A veces        |
+| Hacer mantenimiento a herramientas agrícolas         | Baja            | A veces        |
+| Gestionar el financiamiento agrícola                 | Alta            | Rara vez       |
+| Participar en capacitaciones sobre nuevas tecnologías| Alta            | Rara vez       |
+
 
 ### 2.3.3 User Journey Mapping
 
