@@ -10,6 +10,13 @@
 
 #### 4.1.1.3 Bounded Contexts Canvases
 
+De igual manera que los apartados anteriores diseñamos los canvas de los principales bounded contexts definidos: 
+
+<img src="images/Payment Bounded Context.jpeg">
+
+<img src="images/Profile Bounded Context.jpeg">
+
+<img src="images/Authentication Bounded Context.jpeg">
 
 ### 4.1.2 Context Mapping
 
