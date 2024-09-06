@@ -355,6 +355,16 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
+A continuación, se construirán los User Persona de cada segmento objetivo de nuestra aplicación. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas; principalmente, los que muestran los objetivos, motivaciones y frustraciones con las que cuentan cada uno de los sectores que conforman al público al que va dirigida la aplicación. Es decir, se presentará tanto un estereotipo de un agricultor como el de un de un técnico agrícola. 
+
+### User Persona – Agricultor 
+
+<img src="images/User Persona Agricultor.png">
+
+### User Persona – Técnico agrícola 
+
+<img src="images/User Persona Tecnico.png">
+
 ### 2.3.2. User Task Matrix
 ### María Pineda - User Task Matrix
 
