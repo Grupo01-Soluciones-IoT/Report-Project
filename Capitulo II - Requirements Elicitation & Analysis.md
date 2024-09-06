@@ -392,13 +392,13 @@ El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a gr
 
 ### User Journey Mapping – Agricultor 
 
-<img src="images/User Journey Mapping Agricultor.png">
+<img src="images/User Journey Mapping Agricultor.jpeg">
 
 ### User Journey Mapping – Técnico agrícola 
 
 ### 2.3.4. Empathy Mapping 
 
-<img src="images/User Journey Mapping Tecnico.png">
+<img src="images/User Journey Mapping Tecnico.jpeg">
 
 ### 2.3.5. As-is Scenario Mapping
 
