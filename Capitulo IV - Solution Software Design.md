@@ -152,7 +152,7 @@ Gestiona la información sobre los cultivos, las cosechas y la planificación re
 ### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams
 
 **4.2.1.7.1. Bounded Context Domain Layer Class Diagrams**
-
+<img src="images/HarvestDiagramC.png">
 
 **4.2.1.7.2. Bounded Context Database Design Diagram**
 
