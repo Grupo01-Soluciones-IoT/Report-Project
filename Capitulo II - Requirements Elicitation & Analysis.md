@@ -363,7 +363,7 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 ### User Persona – Técnico agrícola 
 
-<img src="images/User Persona Tecnico.png">
+<img src="images/User Persona Tecnico.jpeg">
 
 ### 2.3.2. User Task Matrix
 ### María Pineda - User Task Matrix
