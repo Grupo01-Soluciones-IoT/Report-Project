@@ -324,13 +324,15 @@ Descripción: Este bounded context está diseñado para gestionar eficientemente
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-
+<img src="images/Resource Bounded Context Component Diagram.png">
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
+<img src="images/Resource Bounded Context Class Diagram.png">
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
 
+<img src="images/Resource Bounded Context Data Base Diagram.png">
