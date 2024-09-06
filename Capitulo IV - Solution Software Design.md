@@ -13,6 +13,8 @@
 
 ### 4.1.2 Context Mapping
 
+<img src="images/ContextMapping.png" width="590" height="450">
+
 ### 4.1.3 Software Architecture
 
 #### 4.1.3.1 Software Architecture System Landscape Diagram 
