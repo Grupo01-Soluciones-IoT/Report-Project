@@ -350,6 +350,20 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 
 ### 2.2.2. Registro de entrevistas
 
+#### Entrevista 1: Agricultor Pequeño
+
+Entrevistado: Eleuterio Chavez
+
+Entrevistador: Jonatan Curi
+
+Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201912404_upc_edu_pe/EUr0HsmmyfJGiPm4oNqo54EB8WkXYOJzNxLEA43BolbZOQ?e=S3XuoT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Evidencia de la reunión
+
+<img src="images/Interview 1.png">
+
+Resumen: En la entrevista, se habló sobre la idea de IAgroT, una solución para optimizar la gestión agrícola mediante IoT y una aplicación móvil. Eleuterio Chávez, un agricultor con una hectárea de cultivos, comentó que su mayor desafío es la sequedad estacional y la falta de un sistema eficiente de riego, ya que no utiliza tecnología y se basa en su experiencia. Se discutió cómo IAgroT podría ayudar, pero Eleuterio mencionó que la mayor limitación sería la distancia para monitorear los cultivos, debido a la falta de wifi y la limitada cobertura de bluetooth, expresando su interés en una solución que no dependa de estos.
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
