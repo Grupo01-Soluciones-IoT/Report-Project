@@ -156,4 +156,5 @@ Gestiona la información sobre los cultivos, las cosechas y la planificación re
 
 **4.2.1.7.2. Bounded Context Database Design Diagram**
 
-<img src="HarvestDiagramDB.png" width="590" height="450">
+<img src="images/HarvestDiagramDB.png">
+
