@@ -388,9 +388,17 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 
 ### 2.3.3 User Journey Mapping
 
+El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a graficar un mapa con las etapas, canales, elementos e interacciones por las que pasa nuestro usuario durante el ciclo de uso del servicio.  
+
+### User Journey Mapping – Agricultor 
+
+<img src="images/User Journey Mapping Agricultor.png">
+
+### User Journey Mapping – Técnico agrícola 
+
 ### 2.3.4. Empathy Mapping 
 
-<img src="images/Empathy Mapping.png">
+<img src="images/User Journey Mapping Tecnico.png">
 
 ### 2.3.5. As-is Scenario Mapping
 
