@@ -4,6 +4,32 @@
 
 ### 4.1.1 Event Storming
 
+<img src="images/EventStorming - Unstructured Exploration.png">
+
+<img src="images/EventStorming - Unstructured Exploration Grouped.png">
+
+<img src="images/EventStorming - Timelines - Preparacion Campo.png">
+
+<img src="images/EventStorming - Timelines - Siembra.png">
+
+<img src="images/EventStorming - Timelines - Crecimiento.png">
+
+<img src="images/EventStorming - Timelines - Cosecha.png">
+
+<img src="images/EventStorming - Timelines - Costos y Ganancias.png">
+
+<img src="images/EventStorming - Timelines - Solicitudes.png">
+
+<img src="images/EventStorming - Timelines - Alertas Personalizadas.png">
+
+<img src="images/EventStorming - Timelines - Simulacion.png">
+
+<img src="images/EventStorming - Timelines - Sign Up.png">
+
+<img src="images/EventStorming - Timelines - Sign In.png">
+
+
+
 #### 4.1.1.1 Candidate Context Discovery
 
 #### 4.1.1.2 Domain Message Flows Modeling
