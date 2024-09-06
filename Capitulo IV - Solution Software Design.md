@@ -32,6 +32,26 @@
 
 #### 4.1.1.1 Candidate Context Discovery
 
+<img src="images/Candidate Context Discovery - Sign Up.png">
+
+<img src="images/Candidate Context Discovery - Sign In.png">
+
+<img src="images/Candidate Context Discovery - Preparacion de Campo.png">
+
+<img src="images/Candidate Context Discovery - Siembra.png">
+
+<img src="images/Candidate Context Discovery - Ciclo de Crecimiento.png">
+
+<img src="images/Candidate Context Discovery - Cosecha.png">
+
+<img src="images/Candidate Context Discovery - Productividad.png">
+
+<img src="images/Candidate Context Discovery - Soporte.png">
+
+<img src="images/Candidate Context Discovery - Simulacion.png">
+
+<img src="images/Candidate Context Discovery - Alertas.png">
+
 #### 4.1.1.2 Domain Message Flows Modeling
 
 #### 4.1.1.3 Bounded Contexts Canvases
