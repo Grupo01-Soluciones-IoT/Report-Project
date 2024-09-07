@@ -364,6 +364,21 @@ Evidencia de la reunión
 
 Resumen: En la entrevista, se habló sobre la idea de IAgroT, una solución para optimizar la gestión agrícola mediante IoT y una aplicación móvil. Eleuterio Chávez, un agricultor con una hectárea de cultivos, comentó que su mayor desafío es la sequedad estacional y la falta de un sistema eficiente de riego, ya que no utiliza tecnología y se basa en su experiencia. Se discutió cómo IAgroT podría ayudar, pero Eleuterio mencionó que la mayor limitación sería la distancia para monitorear los cultivos, debido a la falta de wifi y la limitada cobertura de bluetooth, expresando su interés en una solución que no dependa de estos.
 
+#### Entrevista 2: Agricultora Pequeño
+
+Entrevistado: Nikole Garcia
+
+Entrevistador: Willy Valentin
+
+Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c037_upc_edu_pe/EXcMbCkdzY1Dj1TlIyGAiY4BOL6CMSP2TeND6i_W4yVPqQ?e=xeb7n9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Evidencia de la reunión
+
+<img src="images/Interview 2.png">
+
+Resumen: Nikole Garcia, con 5 años de experiencia en la agricultura y propietaria de 5 hectáreas de arroz, comentó en la entrevista que le gustaría implementar soluciones tecnológicas para mejorar la supervisión de sus cultivos, especialmente en el control de plagas y la gestión de cambios de humedad y condiciones climáticas. Aunque actualmente no utiliza tecnología para estos fines, expresó su interés en herramientas que le permitan un monitoreo eficiente y remoto de sus tierras. Sin embargo, resaltó que la solución debe ser accesible y adaptable, dado que en algunas áreas de su terreno la conectividad es limitada.
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
