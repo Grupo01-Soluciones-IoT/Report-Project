@@ -376,6 +376,8 @@ Evidencia de la reunión
 
 <img src="images/Interview 2.png">
 
+Resumen: Nikole Garcia, con 5 años de experiencia en la agricultura y propietaria de 5 hectáreas de arroz, comentó en la entrevista que le gustaría implementar soluciones tecnológicas para mejorar la supervisión de sus cultivos, especialmente en el control de plagas y la gestión de cambios de humedad y condiciones climáticas. Aunque actualmente no utiliza tecnología para estos fines, expresó su interés en herramientas que le permitan un monitoreo eficiente y remoto de sus tierras. Sin embargo, resaltó que la solución debe ser accesible y adaptable, dado que en algunas áreas de su terreno la conectividad es limitada.
+
 
 ### 2.2.3. Análisis de entrevistas
 
