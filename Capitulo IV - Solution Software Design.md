@@ -70,6 +70,8 @@ De igual manera que los apartados anteriores diseñamos los canvas de los princi
 
 <img src="images/Bounded Context Canvases - Harvest.png">
 
+<img src="images/Bounded Context Canvases -Monitoring and Alerting.png">
+
 ### 4.1.2 Context Mapping
 
 <img src="images/ContextMapping.png" width="590" height="450">
