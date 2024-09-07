@@ -96,6 +96,7 @@ Con este diagrama se puede observar nuestro proyecto de manera más expandida. S
 
 En nuestro Diagrama de Despliegue nos ayudará a comprender y comunicar la arquitectura física de nuestro sistema de software IAgroT, en el cual usaremos Azure, ya que Azure es una App Service que gestionará automáticamente el enrutamiento a las instancias de función de la configuración de la aplicación. 
 
+<img src="images/Software Architecture Deployment Diagrams.png">
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
