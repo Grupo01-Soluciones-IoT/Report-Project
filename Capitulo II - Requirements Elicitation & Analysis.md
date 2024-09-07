@@ -385,7 +385,7 @@ Entrevistado: Diego Merino
 
 Entrevistador: Clara Valverde 
 
-Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c037_upc_edu_pe/EXcMbCkdzY1Dj1TlIyGAiY4BOL6CMSP2TeND6i_W4yVPqQ?e=xeb7n9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Url: https://youtu.be/knHeN7ZoThU
 
 Evidencia de la reunión
 
