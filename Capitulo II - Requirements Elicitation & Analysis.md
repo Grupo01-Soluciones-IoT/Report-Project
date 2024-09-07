@@ -381,6 +381,9 @@ Resumen: Nikole Garcia, con 5 años de experiencia en la agricultura y propietar
 
 ### 2.2.3. Análisis de entrevistas
 
+En las entrevistas, tanto Eleuterio Chávez como Nikole García identificaron la falta de conectividad y el manejo de recursos como sus principales desafíos en la gestión de sus cultivos. Eleuterio destacó la dificultad para implementar un sistema de riego eficiente debido a la sequedad estacional y la falta de tecnología en su terreno de una hectárea. A su vez, Nikole expresó interés en el uso de tecnología para mejorar el control de plagas y la supervisión climática en sus cinco hectáreas de arroz, aunque resaltó la necesidad de que las soluciones sean accesibles y funcionen en áreas con conectividad limitada.
+Ambos agricultores mostraron apertura hacia la implementación de soluciones tecnológicas, siempre y cuando estas se adapten a sus condiciones locales. La propuesta de IAgroT podría optimizar el riego y monitoreo remoto de los cultivos, pero para ser viable deberá prescindir de tecnologías que dependan de wifi o Bluetooth, ofreciendo una opción más accesible y adaptable que permita gestionar las áreas rurales de manera eficiente.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
