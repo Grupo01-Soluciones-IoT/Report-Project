@@ -82,7 +82,7 @@ En nuestro diagrama de contexto se presentan las relaciones fundamentales de IAg
 
 Con este diagrama se puede observar nuestro proyecto de manera más expandida. Se muestra la aplicación web, landing page, aplicación móvil cada una realizando llamadas API a los distintos Bounded Context que interactuan con los sistemas externos de Payment. Además, a su vez interactuarán con un broker que irá conectado a la Base de Datos.
 
-<img src="images/IAgroT Container Diagram.png">
+<img src="images/IAgroT Container Level Diagram.png">
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
@@ -217,13 +217,13 @@ Gestiona la información sobre los cultivos, las cosechas y la planificación re
 <img src="images/HarvestDiagramDB.png">
 
 
-### 4.2.1. Bounded Context: Resource
+### 4.2.2. Bounded Context: Resource
 
 Nombre: Resource
 
 Descripción: Este bounded context está diseñado para gestionar eficientemente los recursos agrícolas, como agua, fertilizantes y pesticidas, y su distribución a los cultivos. A través de aplicaciones móviles y web, los usuarios (agricultores) pueden monitorizar y asignar recursos en tiempo real. El sistema integra componentes para el procesamiento de solicitudes, almacenamiento de datos y publicación de eventos, facilitando el control y optimización de los recursos.
 
-#### 4.2.1.1. Domain Layer
+#### 4.2.2.1. Domain Layer
 
 ### ResourceEntity:
 - **Propósito:** Representa un recurso agrícola que puede ser agua, fertilizantes, pesticidas, etc.
@@ -276,7 +276,7 @@ Descripción: Este bounded context está diseñado para gestionar eficientemente
   - `saveDistribution()`: Registra una nueva distribución de recurso.
   - `getDistributionsByCultivo()`: Obtiene todas las distribuciones para un cultivo específico.
 
-#### 4.2.1.2. Interface Layer
+#### 4.2.2.2. Interface Layer
 
 ### ResourceController:
 - **Propósito:** Controla las interacciones de los usuarios relacionadas con la gestión de recursos.
@@ -292,7 +292,7 @@ Descripción: Este bounded context está diseñado para gestionar eficientemente
   - `viewAssignedResources()`: Muestra los recursos asignados a los cultivos.
   - `generateDistributionReport()`: Genera un informe de las distribuciones realizadas.
 
-#### 4.2.1.3. Application Layer
+#### 4.2.2.3. Application Layer
 
 ### ResourceCommandHandler:
 - **Propósito:** Maneja los comandos relacionados con los recursos, como agregar o modificar recursos.
@@ -307,7 +307,7 @@ Descripción: Este bounded context está diseñado para gestionar eficientemente
 - **Propósito:** Maneja eventos relacionados con las distribuciones de recursos.
 
 
-#### 4.2.1.4. Infrastructure Layer
+#### 4.2.2.4. Infrastructure Layer
 
 ### ResourceRepositoryImpl:
 - **Propósito:** Implementa la interfaz del repositorio de recursos para gestionar la persistencia de los datos en la base de datos.
@@ -322,17 +322,17 @@ Descripción: Este bounded context está diseñado para gestionar eficientemente
 - **Propósito:** Publica eventos relacionados con las distribuciones para facilitar la trazabilidad y el monitoreo.
 
 
-#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
 <img src="images/Resource Bounded Context Component Diagram.png">
 
-#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 
-##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 
 <img src="images/Resource Bounded Context Class Diagram.png">
 
-##### 4.2.1.6.2. Bounded Context Database Design Diagram
+##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
 
 <img src="images/Resource Bounded Context Data Base Diagram.png">
