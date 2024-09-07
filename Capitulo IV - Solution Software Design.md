@@ -64,11 +64,11 @@
 
 De igual manera que los apartados anteriores diseñamos los canvas de los principales bounded contexts definidos: 
 
-<img src="images/Payment Bounded Context.jpeg">
+<img src="images/Bounded Context Canvases - User.png">
 
-<img src="images/Profile Bounded Context.jpeg">
+<img src="images/Bounded Context Canvases - Resource.png">
 
-<img src="images/Authentication Bounded Context.jpeg">
+<img src="images/Bounded Context Canvases - Harvest.png">
 
 ### 4.1.2 Context Mapping
 
