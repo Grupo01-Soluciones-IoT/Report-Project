@@ -379,6 +379,22 @@ Evidencia de la reunión
 Resumen: Nikole Garcia, con 5 años de experiencia en la agricultura y propietaria de 5 hectáreas de arroz, comentó en la entrevista que le gustaría implementar soluciones tecnológicas para mejorar la supervisión de sus cultivos, especialmente en el control de plagas y la gestión de cambios de humedad y condiciones climáticas. Aunque actualmente no utiliza tecnología para estos fines, expresó su interés en herramientas que le permitan un monitoreo eficiente y remoto de sus tierras. Sin embargo, resaltó que la solución debe ser accesible y adaptable, dado que en algunas áreas de su terreno la conectividad es limitada.
 
 
+#### Entrevista 3: Agricultora Pequeño
+
+Entrevistado: Diego Merino
+
+Entrevistador: Clara Valverde 
+
+Url: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c037_upc_edu_pe/EXcMbCkdzY1Dj1TlIyGAiY4BOL6CMSP2TeND6i_W4yVPqQ?e=xeb7n9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Evidencia de la reunión
+
+<img src="images/Interview 3.jpeg">
+
+Resumen: Diego Merino, enfrentan desafíos significativos en cuanto al acceso a recursos como agua y fertilizantes, además de las condiciones climáticas cambiantes. Aunque utilizan métodos tradicionales para la gestión de cultivos, muestran interés en soluciones tecnológicas que les ayuden a monitorear sus cultivos en tiempo real, siempre y cuando el costo sea accesible y reciban una capacitación adecuada. Las principales preocupaciones se centran en la inversión inicial y la facilidad de uso de la tecnología. Los beneficios esperados incluyen una mayor eficiencia en el uso de recursos y mejores rendimientos agrícolas. Esta información sugiere que el desarrollo de soluciones tecnológicas para agricultores de pequeña y mediana escala debería enfocarse en la simplicidad de uso, accesibilidad económica y soporte técnico detallado para asegurar su adopción.
+
+
+
 ### 2.2.3. Análisis de entrevistas
 
 En las entrevistas, tanto Eleuterio Chávez como Nikole García identificaron la falta de conectividad y el manejo de recursos como sus principales desafíos en la gestión de sus cultivos. Eleuterio destacó la dificultad para implementar un sistema de riego eficiente debido a la sequedad estacional y la falta de tecnología en su terreno de una hectárea. A su vez, Nikole expresó interés en el uso de tecnología para mejorar el control de plagas y la supervisión climática en sus cinco hectáreas de arroz, aunque resaltó la necesidad de que las soluciones sean accesibles y funcionen en áreas con conectividad limitada.
