@@ -54,6 +54,12 @@
 
 #### 4.1.1.2 Domain Message Flows Modeling
 
+<img src="images/Domain Message Flows Modeling - Escenario 1.png">
+
+<img src="images/Domain Message Flows Modeling - Escenario 2.png">
+
+<img src="images/Domain Message Flows Modeling - Escenario 3.png">
+
 #### 4.1.1.3 Bounded Contexts Canvases
 
 De igual manera que los apartados anteriores diseñamos los canvas de los principales bounded contexts definidos: 
