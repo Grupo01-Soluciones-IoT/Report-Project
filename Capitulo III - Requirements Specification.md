@@ -47,3 +47,28 @@
 <img src="images/IAgroT Impact Mapping.png">
 
 ## 3.4. Product Backlog
+
+| ID  | Título                                            | Descripción                                                                                   | Prioridad | EPIC ID | Sprint   |
+|-----|---------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------|---------|----------|
+| 1   | Diseño del Prototipo del Dispositivo              | Diseñar el prototipo del dispositivo IoT, seleccionar componentes y crear el esquema eléctrico. | Alta      | 1       | Sprint 1 |
+| 2   | Desarrollo del Firmware                           | Programar el firmware para la recolección y procesamiento de datos de sensores.                | Alta      | 1       | Sprint 1 |
+| 3   | Implementación de Sensores Ambientales            | Añadir sensores para medir variables como humedad, temperatura y luz.                          | Alta      | 1       | Sprint 1 |
+| 4   | Automatización del Sistema de Riego               | Implementar un sistema para automatizar el riego basado en datos en tiempo real.               | Alta      | 1       | Sprint 2 |
+| 5   | Implementación del Sistema Climatológico          | Integrar un sistema para recolectar y analizar datos climáticos, y predecir condiciones futuras.| Media     | 1       | Sprint 2 |
+| 6   | Registro de Usuario                               | Permitir que los usuarios nuevos se registren en la aplicación móvil.                          | Alta      | 2       | Sprint 1 |
+| 7   | Inicio de Sesión                                  | Implementar funcionalidad para que los usuarios registrados inicien sesión en la aplicación.    | Alta      | 2       | Sprint 1 |
+| 8   | Visualización de Datos en Tiempo Real             | Visualizar los datos en tiempo real de los sensores en la aplicación móvil.                    | Alta      | 2       | Sprint 2 |
+| 9   | Generación de Reportes                            | Crear funcionalidad para generar reportes sobre los cultivos y el uso de recursos.             | Media     | 2       | Sprint 3 |
+| 10  | Configuración de Preferencias de Usuario          | Configurar preferencias como notificaciones y alertas.                                         | Media     | 2       | Sprint 3 |
+| 11  | Pruebas de Precisión y Fiabilidad del Dispositivo | Realizar pruebas para asegurar la precisión y fiabilidad del dispositivo IoT.                  | Alta      | 5       | Sprint 4 |
+| 12  | Configuración de Alertas de Problemas en Cultivos | Configurar alertas para problemas potenciales como plagas.                                     | Media     | 3       | Sprint 3 |
+| 13  | Notificación de Mantenimiento Preventivo          | Enviar notificaciones de mantenimiento preventivo del dispositivo IoT.                         | Media     | 5       | Sprint 3 |
+| 14  | Simulación de Impacto Climático en los Cultivos   | Permitir simular escenarios climáticos para predecir el impacto en los cultivos.               | Media     | 3       | Sprint 4 |
+| 15  | Automatización del Sistema de Fertilización       | Implementar un sistema para automatizar la fertilización basado en los datos del dispositivo IoT.| Alta      | 1       | Sprint 3 |
+| 16  | Acceso a Tutoriales y Soporte Técnico             | Proveer acceso a tutoriales y soporte técnico en la aplicación móvil.                          | Media     | 2       | Sprint 3 |
+| 17  | Control de Acceso Multiusuario                    | Controlar acceso a funcionalidades según el rol de cada usuario dentro de la agroindustria.     | Alta      | 2       | Sprint 4 |
+| 18  | Monitoreo del Consumo de Agua                     | Monitorear el consumo de agua para gestionar mejor los recursos hídricos.                      | Media     | 3       | Sprint 3 |
+| 19  | Gestión de Inventario de Insumos Agrícolas        | Gestionar el inventario de insumos agrícolas para evitar escasez o exceso de materiales.        | Media     | 4       | Sprint 4 |
+| 20  | Modo de Visualización Nocturna                    | Implementar un modo nocturno en la aplicación para reducir la fatiga ocular.                   | Baja      | 2       | Sprint 4 |
+
+
