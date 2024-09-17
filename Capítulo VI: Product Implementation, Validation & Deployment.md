@@ -4,57 +4,71 @@
 
 ## 6.1.1. Software Development Environment Configuration.
 ### **Project Management**
-Se emplearon herramientas de software que permiten la comunicación en tiempo real y la edición rápida y compartida, lo que facilitó el trabajo eficiente. Algunas de las herramientas utilizadas fueron los servicios de Google (Drive, Documents, Meet) y Microsoft Outlook. Para el registro de versiones y la creación de repositorios se utilizó GitHub, una plataforma que permite registrar de manera ordenada cada uno de los commits realizados y Git  una herramienta que permite el control de versiones.
+Se utilizaron diversas herramientas que permitieron una comunicación en tiempo real y una edición rápida y compartida, lo que optimizó la eficiencia del trabajo colaborativo. Entre las herramientas empleadas destacan los servicios de Google (Google Drive, Notion, Google Meet). 
+  
+  <img src="images/Notion-Logo.png" width="300"/>
 
- <img src="Assets/github.jpg" width="700"/>
+Para la gestión de versiones y repositorios, se utilizó GitHub. Estas herramientas permiten registrar de manera ordenada cada uno de los commits, garantizando un control adecuado del desarrollo.
 
+  <img src="images/GitHub-Logo.png" width="300"/>
+  
 ### **Product UX/UI Design**
-Se utilizó Miro y UXPressia para el desarrollo de los segmentos objetivos y sus mapeos, así como para los As-Is y To-Be Scenario Maps. Para los mockups, wireframes, wireflows y el prototipo de la aplicación web se empleó Figma.
+
+Para la creación de los segmentos objetivos y sus mapeos, así como los As-Is y To-Be Scenario Maps, se utilizó Miro y UXPressia. Estas herramientas facilitaron la construcción de escenarios que reflejan el comportamiento del usuario. En cuanto a los mockups, wireframes, wireflows y el prototipo de la aplicación, Figma fue la herramienta principal, gracias a su versatilidad y capacidad de colaboración.
+ 
+ <img src="images/Figma-Logo.png" width="300"/>
 
 ### **Software Development**
-Para el desarrollo del software se utilizó Visual Studio Code, HTML, CSS, Bootstrap y Javascript. Visual Studio Code es un software que admite muchos lenguajes de programación, incluyendo HTML y CSS, y fue utilizado principalmente para el Landing Page. HTML se utilizó para el desarrollo de la estructura de las páginas web, CSS para el diseño y presentación, Bootstrap para crear interfaces más limpias y responsive, y Javascript para implementar la interactividad dinámica y animaciones en el Landing Page.<br>
- <img src="Assets/visual%20studio.png" width="700"/>
 
-También se está desarrollando la aplicación móvil emppleando el framework Flutter, la cual es multiplataforma. Sin embargo, no se utiliza Flutter solo por su responsiveness, sino que se eligió por el uso de distintos componentes que permite darle una estética más personalizado. El lenguaje en uso para el desarrollo de la aplicación móvil es Dart.
-    <img src="Assets/android%20studio.png" width="700"/>
+Para el desarrollo del frontend, se empleó Visual Studio Code como entorno principal, en combinación con tecnologías web como HTML, CSS, Bootstrap y JavaScript. Estas tecnologías permitieron la construcción del Landing Page y de las interfaces web de manera responsive y dinámica. HTML fue utilizado para la estructura, CSS para la presentación, Bootstrap para garantizar un diseño adaptable, y JavaScript para añadir interactividad y animaciones.
 
-Asimismo, se utilizo Vue para el desarrollo de la aplicación web, un framework progresivo de JavaScript que permite crear interfaces de usuario interactivas y dinámicas.
-    <img src="Assets/vue.jpg" width="700"/>
+<img src="images/Vscode-Logo.png" width="300"/>
 
-Para el desarrollo del backend se utilizó Node.js, un entorno de ejecución de JavaScript que permite ejecutar código JavaScript en el servidor.
+El desarrollo de la aplicación móvil se llevó a cabo utilizando el framework Flutter, conocido por ser multiplataforma y por la flexibilidad que brinda para la creación de interfaces personalizadas. El lenguaje de programación utilizado fue Dart.
 
-    <img src="Assets/node.png" width="700"/>
+<img src="images/Flutter-Logo.png" width="300"/>
 
+En el desarrollo de la aplicación web, se utilizó Vue.js, un framework progresivo de JavaScript que permite la creación de interfaces de usuario dinámicas e interactivas.
+
+<img src="images/Vue-Logo.png" width="300"/>
+
+Por otro lado, el desarrollo del backend fue realizado en Node.js, un entorno de ejecución que permite utilizar JavaScript en el servidor.
 
 ### **Software Testing**
-Para probar el Landing Page se utilizó la extensión LiveShare de Visual Studio Code, que permite crear un localhost para ver en tiempo real los cambios realizados. Para los test de aceptación se utilizó el lenguaje Gherkin y se subió al repositorio mencionado anteriormente.
+
+Para las pruebas del Landing Page, se utilizó la extensión **LiveShare** de Visual Studio Code, que permite crear un entorno de `localhost` donde se pueden visualizar en tiempo real los cambios realizados en el código. Para las pruebas de aceptación, se empleó **Gherkin** y los resultados se subieron al repositorio en GitHub.
 
 ### **Software Deployment**
-Para desplegar la Landing Page, al ser una página de contenido estático que no necesita muchas actualizaciones, se utilizó GitHub Pages, que es gratuito y permite actualizar el contenido cuando sea necesario.
+
+El Landing Page fue desplegado utilizando **GitHub Pages**, que permite alojar sitios web estáticos de manera gratuita y actualizar el contenido de forma eficiente.
 
 ### **Software Documentation**
-La documentación del software se realizó mediante comentarios en los archivos HTML, ya que al utilizar HTML para el desarrollo del Landing Page, un lenguaje de marcado, no era necesario crear diagramas de clases u otros tipos de documentación.
+
+La documentación del software se realizó mediante comentarios en el código HTML, ya que este es un lenguaje de marcado y no requiere una documentación exhaustiva como los lenguajes de programación orientados a objetos.
 
 ## 6.1.2. Source Code Management.
 
-Para mantener el orden  y evitar conflictos o superposiciones de información, los proyectos se trabajaron en una
-organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los
-siguientes:
-1. Repositorio para el landing page: https://github.com/OneUp-WS71/landign-page 
-2. Repositorio de la aplicación web: https://github.com/OneUp-WS71/frontend-web-applications 
-3. Repositorio de la aplicación móvil: https://github.com/OneUp-WS71/Mobile-applications 
-4. Repositorio del backend: https://github.com/OneUp-WS71/web-services
-5. Repositorio del embedded application: https://github.com/OneUp-WS71/embedded-application  
+Para la gestión del código fuente y evitar conflictos, los proyectos se organizaron en diferentes repositorios dentro de una organización en GitHub, distribuidos de la siguiente manera:
 
-Se utilizará GitFlow para la administración de versiones del proyecto, en concreto se hará uso de las ramas main, develop and feature. 
-+ Para cada commit que se realice, ya sea para el landing page o los archivos .feature, se utilizará el formato de mensaje "Conventional Commits" para ayudar a reconocer mejor lo que se hizo en los commits y de esta forma conocer mejor el estado del proyecto.
-+ Cada repositorio de código tendrá sus respectivas ramas tal como lo describe Vincent Driessen, donde estará presente la rama Main (que almacenará las versiones estables y finales), Develop (donde se irán integrando los cambios implementados por cada feature y estará en constante actualización). 
-+ Además, para la creación de ramas feature se utilizará el formato, feature/< user story / technical story> y para los commits Se utilizara el siguiente formato para realizar los commits: < type>[optional scope]< optional sticker>: < description> 
-[optional body]
-[optional footer(s)]
+- **Landing Page**: Repositorio del Landing Page
+- **Aplicación Web**: Repositorio de la aplicación web
+- **Aplicación Móvil**: Repositorio de la aplicación móvil
+- **Backend**: Repositorio del backend
+- **Aplicación Embebida**: Repositorio de la aplicación embebida
+
+Se utilizó **GitFlow** para la administración de versiones, haciendo uso de las ramas `main`, `develop` y `feature`. Para los commits, se siguió el formato de mensajes **Conventional Commits**, lo que permite tener un registro claro y organizado de los cambios realizados en el proyecto.
+
+Cada repositorio cuenta con las siguientes ramas:
+
+- `main`: Contiene las versiones estables.
+- `develop`: Contiene las funcionalidades en desarrollo y en constante actualización.
+- `feature`: Para el desarrollo de nuevas funcionalidades.
+
+El formato utilizado para las ramas `feature` fue `feature/<user-story/technical-story>`, y los commits siguieron la convención `<type>[optional scope]: <description>`.
 
 ## 6.1.3. Source Code Style Guide & Conventions.
-A continuación, se mostrarán las pautas, convenciones, estilo y principios que se utilizarán para cada uno de los lenguajes de se emplearán en la creacion y desarrollo de nuestra aplicación. La práctica de este conjunto de reglas es de suma importancia, ya que estas tienen el propósito de conservar la calidad estructural del software, dar una mayor legibilidad al código fuente y facilitar el mantenimiento del código.
+
+La adherencia a las siguientes pautas, convenciones y principios es crucial para mantener la calidad estructural del software, mejorar la legibilidad del código fuente y facilitar el mantenimiento.
 
 **HTML:**
 + Declarar siempre el tipo de documento con <! DOCTYPE html>.
@@ -244,24 +258,20 @@ public class Usuario {
     }
 }
 ```
+
 ## 6.1.4. Software Deployment Configuration.
-En este punto, se dara a conocer el proceso de despliegue de las aplicaciones, así como la configuración de los servidores y la infraestructura necesaria para su correcto funcionamiento.
+
+A continuación se describe el proceso de despliegue de las aplicaciones, así como la configuración de los servidores e infraestructura necesarios para su correcto funcionamiento.
 
 **Landing Page:** 
-Para desplegar la Landing Page, se utilizó GitHub Pages, una plataforma gratuita que permite alojar sitios web estáticos directamente desde un repositorio de GitHub. El proceso de despliegue fue el siguiente:
+Para el despliegue de la Landing Page, se utilizó GitHub Pages, una plataforma gratuita que permite alojar sitios web estáticos directamente desde un repositorio de GitHub. El proceso de despliegue se realizó de la siguiente manera:
 1. Crear un repositorio en GitHub con el código de la Landing Page.
 2. Acceder a la configuración del repositorio y habilitar GitHub Pages.
-<img src="Assets/landing%20deploy%201.png" width="700"/>
-
-
-
 4. Seleccionar la rama y la carpeta de origen del sitio web.
 5. Guardar la configuración y obtener la URL del sitio web desplegado.
 6. Finalmente, acceder a la URL del sitio web para verificar que se haya desplegado correctamente.
-    <img src="Assets/landing%20deploy%202.png" width="700"/>
 
-
-+ Enlace de la Landing Page desplegada: https://oneup-ws71.github.io/landign-page/
++ Enlace de la Landing Page desplegada: XXXX
 
 **FrontEnd:**
 Para el despliegue de la aplicacion se ha usado los servicios que ofrecen netlify una plataforma de alojamiento web que ofrece integración continua y despliegue automático desde repositorios de Git. El proceso de despliegue fue el siguiente:
@@ -274,11 +284,9 @@ Inicia sesión en Netlify y ve al panel de control.
 Hacer clic en el botón "New site from Git" (Nuevo sitio desde Git).
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Seleccionar el repositorio que contiene la página web.
-<img src="Assets/netlify.png" width="700"/>
 
 + Configurar las Opciones de Despliegue:
 Netlify detectará automáticamente la configuración de tu proyecto. Si necesitas ajustes adicionales, como la configuración del directorio de compilación, puedes establecerlos en la sección de configuración de tu sitio.
-<img src="Assets/netlify%202.png" width="700"/>
 
 + Despliegue Automático:
 Activa la opción de "Deploy site" (Desplegar sitio) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
@@ -297,17 +305,20 @@ Crea un nuevo proyecto y selecciona "Backend" como tipo de proyecto.
 Conectar el Repositorio:
 Selecciona tu proveedor de servicios de alojamiento de Git (por ejemplo, GitHub) y autoriza la conexión con tu cuenta.
 Selecciona el repositorio que contiene tu backend.
- <img src="Assets/railway.png" width="700"/>
 
 + Configurar el Entorno:
 Railway detectará automáticamente el tipo de backend que estás utilizando y configurará el entorno según sea necesario.
 Si tu backend necesita variables de entorno específicas, como claves API o configuraciones de base de datos, puedes establecerlas en la sección de configuración de tu proyecto.
- <img src="Assets/railway2.png" width="700"/>
 
 + Despliegue Automático:
 Activar la opción de "Auto Deploy" (Despliegue Automático) para habilitar el despliegue automático cada vez que realices cambios en tu repositorio.
 + Verificar el Despliegue:
 Una vez que se complete el despliegue, Railway te proporcionará una URL única para acceder a tu backend.
+
+
+
+
+
 # 6.2. Landing Page, Services & Applications Implementation.
 
 ## 6.2.1. Sprint 1
