@@ -4,7 +4,56 @@
 
 ### 5.1.1. General Style Guidelines
 
+
+### Brand Overview
+La creciente necesidad de optimizar la gestión agrícola en un entorno cada vez más afectado por el cambio climático y la variabilidad de los recursos naturales ha puesto de manifiesto la importancia de contar con herramientas tecnológicas avanzadas. **IAgroT** surge como respuesta a esta necesidad, proporcionando una solución integral que combina dispositivos IoT y una plataforma móvil para el monitoreo y gestión de cultivos en tiempo real. Nuestro equipo ha desarrollado esta solución para ofrecer a los agricultores peruanos una herramienta eficiente, accesible y personalizada que les permita maximizar la productividad de sus tierras y garantizar la sostenibilidad a largo plazo de sus cultivos.
+
+### Brand Name
+El nombre del software identificado es **IAgroT**. Este nombre surgió a partir de la necesidad de integrar tecnología avanzada en la agricultura, enfocándonos en soluciones que optimicen la gestión de cultivos a través de dispositivos IoT. El equipo eligió una combinación de "I" por Internet y "Agro", que representa el sector agrícola, para resaltar la conexión directa entre tecnología e innovación en el campo. La letra "T" representa la transformación digital en la agricultura. Esperamos que los agricultores y técnicos asocien IAgroT con herramientas tecnológicas que modernizan y optimizan sus procesos agrícolas, facilitando el monitoreo y gestión eficiente de sus cultivos.
+
+<p align="center">
+  <img src="images/Iagrot-logo-blacksite.png" alt="Brand Logo - IagrOT" width="250"/>
+</p>
+
+### Typography
+La tipografía es un elemento esencial para estructurar y organizar el lenguaje visual de todas las plataformas desarrolladas para IAgroT. Es fundamental que las fuentes seleccionadas sean legibles y contribuyan a mejorar la experiencia del usuario en la interfaz. Por ello, se ha elegido la fuente **Nunito** como la principal, una tipografía sans-serif moderna y amigable que se adapta bien al enfoque tecnológico del proyecto. Nunito destaca por su legibilidad tanto en pantallas pequeñas como grandes, aportando claridad y consistencia en todos los dispositivos utilizados por los agricultores y técnicos.
+
+Como tipografía secundaria, se ha optado por **Roboto Flex**, una fuente versátil y flexible que complementa a Nunito. Roboto Flex será utilizada en textos secundarios y áreas que requieran una mayor variabilidad en peso y estilo, aportando dinamismo sin perder la coherencia visual en la experiencia del usuario.
+
+<img src="images/Iagrot - Nunito - Font.png" alt="Nunito Font - IagrOT" width="250"/>
+<img src="images/Iagrot - Roboto-Flex - Font.png" alt="Roboto Flex Font - IagrOT" width="250"/>
+
+### Head
+<img src="images/Head - Style Guidelines.png" alt="Head - Style Guidelines"/>
+
+### Body
+<img src="images/Body - Style Guidelines.png" alt="Body - Style Guidelines"/>
+
+### Colors
+<img src="images/Colors - Style Guidelines.png" alt="Colors - Style Guidelines"/>
+
+### Spacing
+<img src="images/Spacing - Style Guidelines.png" alt="Spacing - Style Guidelines"/>
+
+
+#### Tono de comunicación y lenguaje aplicado
+- **Color Primario:** El color primario (#049404) refleja la esencia de la naturaleza y la vida agrícola. Este verde vibrante representa el crecimiento, la frescura y la sustentabilidad, valores centrales de IAgroT. Se ha elegido para transmitir una sensación de confianza y seguridad a los agricultores, ya que está vinculado con la idea de campos fértiles y una agricultura próspera.
+- **Color Secundario:** El color secundario (#A2CA71) aporta un tono suave y relajante asociado con el bienestar y el equilibrio natural. Este verde más claro evoca esperanza y renovación, conectando al usuario con el ciclo natural de la vida agrícola.
+- **Blanco:** El blanco (#FFFFFF) se utiliza para transmitir claridad y simplicidad en la interfaz. Este color permite que los elementos importantes resalten, brindando un aspecto limpio y moderno que facilita la navegación y la lectura.
+- **Negro:** Los tonos de negro (#000000, #1D1D1D, #282828) son utilizados para dar un toque de elegancia y profesionalismo a la plataforma. Estos colores refuerzan la seriedad de los datos presentados, asegurando que la tecnología de IAgroT se perciba como confiable y precisa.
+- **Grises:** Los tonos de gris (#333333, #4F4F4F, #828282, #BDBDBD, #E0E0E0) aportan neutralidad y equilibrio al diseño, sirviendo de fondo para resaltar la información esencial.
+
+  El lenguaje utilizado en la plataforma será accesible, profesional y orientado al soporte, ya que IAgroT busca no solo ofrecer soluciones tecnológicas, sino también acompañar al agricultor en su camino hacia la optimización de sus cultivos. La comunicación debe ser clara, confiable y cercana, promoviendo la eficiencia y el uso adecuado de la tecnología para transformar la agricultura.
+
+
 ### 5.1.2. Web, Mobile and IoT Style Guidelines
+
+Desarrollaremos una aplicación adaptable a cualquier dispositivo tecnológico sin comprometer el diseño del contenido. Por esta razón, se considerará cada tipo de dispositivo, garantizando que el contenido esté organizado de la forma más adecuada para cada uno.
+
+Emplearemos el patrón **Z** en nuestro diseño, comenzando con la identificación de nuestra marca que se ubicará en la esquina superior izquierda. Desde ahí, el usuario iniciará su interacción visual con el logotipo de IAgroT. Luego se desplazará horizontalmente hacia la derecha, donde encontrará las opciones principales como "Inicio", "Nosotros", "Servicios" y "Contáctanos", facilitando su navegación por el sitio. A continuación, el usuario bajará verticalmente para interactuar con el contenido principal, donde verá el mensaje destacado sobre la agricultura inteligente junto con una imagen representativa. Finalmente, el recorrido terminará en la parte inferior, donde podrá acceder a los enlaces de descarga de la aplicación en Google Play y App Gallery, asegurando un acceso fácil a las plataformas móviles.
+
+Este flujo visual asegura que el usuario capte de manera eficiente los elementos clave del sitio, manteniendo una estructura intuitiva y fluida.
+
 
 ## 5.2. Information Architecture
 
