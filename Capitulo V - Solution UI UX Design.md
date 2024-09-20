@@ -239,9 +239,13 @@ Se presenta una versión preliminar de nuestro sitio web, detallando el contenid
 ### Desktop Web
 
 #### Menú
+<img src="images/Inicio - Landing Page Mock-up.png" alt="Inicio - Landing Page Mock-up"/>
 
 #### Nosotros
+<img src="images/Nosotros - Landing Page Mock-up - Landing Page Mock-up.png" alt="Nosotros - Landing Page Mock-up"/>
 
 #### Nuestros Servicios
+<img src="images/Servicios - Landing Page Mock-up.png" alt="Servicios - Landing Page Mock-up"/>
 
 #### Contáctanos
+<img src="images/Contactanos - Landing Page Mock-up.png" alt="Contactanos - Landing Page Mock-up"/>
