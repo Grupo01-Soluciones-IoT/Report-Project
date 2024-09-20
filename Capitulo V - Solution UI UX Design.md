@@ -50,9 +50,14 @@ Como tipografía secundaria, se ha optado por **Roboto Flex**, una fuente versá
 
 Desarrollaremos una aplicación adaptable a cualquier dispositivo tecnológico sin comprometer el diseño del contenido. Por esta razón, se considerará cada tipo de dispositivo, garantizando que el contenido esté organizado de la forma más adecuada para cada uno.
 
+<img src="images/Responsive - Web, Mobile and IoT Style Guidelines.png" alt="Spacing - Style Guidelines"/>
+
 Emplearemos el patrón **Z** en nuestro diseño, comenzando con la identificación de nuestra marca que se ubicará en la esquina superior izquierda. Desde ahí, el usuario iniciará su interacción visual con el logotipo de IAgroT. Luego se desplazará horizontalmente hacia la derecha, donde encontrará las opciones principales como "Inicio", "Nosotros", "Servicios" y "Contáctanos", facilitando su navegación por el sitio. A continuación, el usuario bajará verticalmente para interactuar con el contenido principal, donde verá el mensaje destacado sobre la agricultura inteligente junto con una imagen representativa. Finalmente, el recorrido terminará en la parte inferior, donde podrá acceder a los enlaces de descarga de la aplicación en Google Play y App Gallery, asegurando un acceso fácil a las plataformas móviles.
 
 Este flujo visual asegura que el usuario capte de manera eficiente los elementos clave del sitio, manteniendo una estructura intuitiva y fluida.
+
+<img src="images/Z Pattern - Web, Mobile and IoT Style Guidelines.png" alt="Spacing - Style Guidelines"/>
+
 
 
 ## 5.2. Information Architecture
@@ -142,3 +147,101 @@ Los sistemas de navegación han sido diseñados para guiar a los usuarios de man
   En las versiones móviles, se utiliza un menú lateral desplegable donde los usuarios pueden acceder rápidamente a las secciones principales.
 
 Estos sistemas garantizan una experiencia de usuario optimizada, facilitando la navegación y el acceso a la información relevante para cada segmento de usuarios en la plataforma IAgroT.
+
+## 5.3. Landing Page UI Design
+
+### 5.3.1. Landing Page Wireframe
+
+Las landing pages son herramientas clave para convertir visitantes en posibles clientes, utilizando elementos como mensajes atractivos e información detallada sobre el producto. Por esta razón, se decidió emplear esta herramienta, diseñando una versión preliminar tanto para dispositivos móviles como para computadoras.
+
+En la versión móvil, se incluye el mismo contenido que en la versión de escritorio, pero reorganizado para adaptarse al tamaño de pantalla de los dispositivos móviles. Esta versión cuenta con un botón que facilita la navegación, permitiendo al usuario explorar la página de forma más cómoda. El diseño también es práctico y visualmente amigable, mejorando la experiencia del usuario.
+
+Por otro lado, la versión para computadoras ofrece una estructura de ventanas con opciones claramente especificadas acompañadas de descripciones, para que el usuario pueda comprender fácilmente cada sección del sitio web. Además, se implementó una barra de navegación estática, asegurando su disponibilidad constante y facilitando una experiencia de navegación cómoda a lo largo de toda la landing page.
+
+
+<img src="images/Selection Boxes - Style Guidelines.png" alt="Spacing - Style Guidelines"/>
+
+Esta sección de "Cuadros de Selección" presenta los diferentes elementos interactivos que serán utilizados en la interfaz de IAgroT para mejorar la experiencia del usuario al gestionar y monitorear sus cultivos. Los cuadros de selección permiten elegir entre diferentes opciones de menú desplegable (dropdown), como la selección de tipos de cultivos o sensores IoT específicos.
+
+- **Checkboxes y Toggles:** Estos elementos permitirán a los usuarios activar o desactivar diferentes funcionalidades, como el monitoreo en tiempo real o las alertas de condiciones climáticas. Los toggles también serán útiles para configurar opciones como el encendido y apagado de dispositivos IoT conectados.
+- **Selector de fechas (Date Picker):** Este componente es esencial para planificar actividades agrícolas. Los usuarios podrán elegir fechas para programar el riego automático, la aplicación de fertilizantes o la cosecha.
+- **Paginación:** Facilitará la navegación entre diferentes secciones de datos, permitiendo a los usuarios revisar historiales de monitoreo o análisis de rendimiento.
+- **Breadcrumbs:** Ofrecerán una navegación clara a través de las distintas secciones de la aplicación, permitiendo a los usuarios moverse entre páginas de configuración, monitoreo y reportes.
+
+Este diseño de cuadros de selección asegura que los agricultores puedan interactuar fácilmente con la plataforma, configurando y ajustando los sistemas de IoT de manera eficiente y organizada.
+
+<img src="images/Buttons - Style Guidelines.png" alt="Spacing - Style Guidelines"/>
+
+Este esquema de "Botones" se aplica al diseño de la interfaz de IAgroT y sigue una estructura clara para mantener la coherencia visual y funcional en toda la plataforma.
+
+- **Color Primario y Secundario:** Los botones primarios, en verde intenso, se utilizarán para acciones clave dentro de la plataforma, como iniciar un monitoreo o confirmar una configuración. El color secundario, en un tono verde más claro, está destinado a acciones complementarias o menos urgentes.
+- **Tamaños:** Los botones estarán disponibles en diferentes tamaños (pequeño, normal, mediano y grande) según la importancia de la acción y el contexto. Los botones grandes, por ejemplo, serán usados para acciones principales que requieren mayor visibilidad, mientras que los botones pequeños se utilizarán para opciones secundarias en secciones más específicas.
+- **Full-width y comportamiento:** Los botones de ancho completo (full-width) se ajustarán al tamaño del dispositivo, proporcionando una experiencia óptima tanto en móviles como en pantallas más grandes. Los botones también tendrán diferentes estados (default, hover, active, disabled), permitiendo al usuario entender visualmente cuándo una opción está disponible o no.
+
+Estas reglas y estilos aseguran una interacción eficiente y accesible para los usuarios de IAgroT, permitiendo que las acciones importantes se destaquen y sean fáciles de identificar en cualquier dispositivo.
+
+<img src="images/Big Elements - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+
+En la sección de "Elementos Grandes" para IAgroT, los elementos visuales y estructurales clave serán:
+
+- **Imágenes:** Las imágenes destacadas en la galería serán utilizadas para mostrar vistas de los campos agrícolas, tecnología IoT en acción o representaciones gráficas de los resultados del monitoreo. Cada imagen tendrá un título descriptivo para proporcionar contexto visual al usuario, destacando elementos importantes del proceso agrícola.
+- **Tablas:** Las tablas en la interfaz estarán diseñadas para organizar datos cruciales, como los resultados del monitoreo de cultivos, estadísticas de rendimiento o información sobre las condiciones climáticas. Cada columna estará claramente etiquetada, y las filas contendrán datos organizados para facilitar su lectura. La función "Add" permitirá a los usuarios añadir nuevas entradas, como la inclusión de nuevos sensores IoT o campos de cultivo adicionales.
+
+El uso de estos Elementos Grandes es fundamental para mostrar información detallada y visualmente atractiva, facilitando a los agricultores la gestión eficiente de sus cultivos y recursos mediante la plataforma IAgroT.
+
+<img src="images/Cards - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+
+En la sección de Tarjetas para IAgroT, estas servirán para presentar información clave de forma visual y organizada.
+
+- **Presentaciones:** La tarjeta principal, con un encabezado destacado y una imagen de fondo atractiva, permitirá a los usuarios obtener una visión general de temas importantes, como el monitoreo en tiempo real de sus cultivos o las características principales de la plataforma. Además, incluirá un botón de Call to Action que invitará al usuario a realizar una acción clave, como acceder a informes de rendimiento o comenzar a utilizar una nueva funcionalidad de IoT.
+- **Tarjetas Individuales:** Las tarjetas más pequeñas presentarán contenido resumido y útil, como informes rápidos sobre el estado de los cultivos, datos climáticos o recomendaciones personalizadas basadas en el análisis de los datos del IoT. Cada tarjeta incluirá un título, una breve descripción, y un enlace o botón que dirigirá al usuario a más información, como "Leer más" o "Enlace a estadísticas."
+
+Estas tarjetas son fundamentales para organizar visualmente la información dentro de IAgroT, ofreciendo a los usuarios acceso rápido y fácil a las diferentes funciones y reportes sin sobrecargar la interfaz.
+
+## 5.3.1. Landing Page Wireframe
+
+En esta sección, se presenta la base para el diseño del sitio web de nuestro software, estableciendo los elementos que brindarán una mejor visión del contenido que se mostrará tanto en la plataforma como en la versión móvil.
+
+La landing page se diseñará en un tamaño adecuado para las pantallas de cada ordenador, centrando la información para que sea fácilmente visible para el usuario. Se priorizará la inclusión de contenido preciso y relevante, evitando sobrecargar al usuario. Para facilitar la navegación, se implementará una barra de navegación estática que permitirá al usuario desplazarse cómodamente por toda la página.
+
+### Desktop Web
+
+#### Menú
+
+<img src="images/Big Elements - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+
+Este wireframe muestra una barra de navegación estática en la parte superior con enlaces a las secciones principales: "Inicio," "Nosotros," "Servicios," "Planes," y "Únete." Al centro, se destaca un mensaje principal y una breve descripción. A la derecha, hay un espacio para una imagen. En la parte inferior, se incluyen botones para descargar la aplicación desde Google Play y AppGallery, resaltando la disponibilidad móvil. El diseño es sencillo y centrado para facilitar la navegación.
+
+#### Nosotros
+
+<img src="images/Big Elements - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+
+Este wireframe muestra la sección "Nosotros" con un diseño limpio y organizado. A la izquierda, se encuentra un título destacado "NOSOTROS" seguido de un breve párrafo que describe la sección. A la derecha, hay un espacio reservado para una imagen representativa. El diseño es simétrico y se enfoca en proporcionar información de manera clara, combinando texto e imagen para captar la atención del usuario.
+
+#### Servicios
+
+<img src="images/Big Elements - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+
+Este wireframe corresponde a la sección "Nuestros Servicios." Al centro, se encuentra el título destacado seguido de una breve descripción. Debajo, se presentan tres imágenes alineadas horizontalmente, cada una con su respectivo texto descriptivo. Este diseño ofrece una estructura clara y simétrica que permite resaltar los servicios de manera visual y organizada, facilitando al usuario la comprensión de la oferta.
+
+#### Contáctanos
+
+<img src="images/Big Elements - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+
+Este wireframe corresponde a la sección "Contáctanos." A la izquierda, se muestra un espacio reservado para una imagen. A la derecha, se encuentra un formulario simple que incluye campos para "Nombre," "Correo" y "Mensaje," junto con un botón para "Enviar." Este diseño ofrece una forma clara y directa para que los usuarios se unan o se pongan en contacto, combinando elementos visuales con la funcionalidad de un formulario.
+
+Enlace: [Figma Wireframe](https://www.figma.com/design/LN2VU2tN0rNd7Xkk9RtQTj/Untitled?node-id=0-1&t=ZviVgomnPOScb13B-1)
+
+## 5.3.2. Landing Page Mock-up
+
+Se presenta una versión preliminar de nuestro sitio web, detallando el contenido que incluirá. Esta versión incorpora los colores según nuestra guía de estilos y añade imágenes coherentes con la información presentada, con el objetivo de facilitar al usuario una comprensión más clara de los conceptos que queremos transmitir.
+
+### Desktop Web
+
+#### Menú
+
+#### Nosotros
+
+#### Nuestros Servicios
+
+#### Contáctanos
