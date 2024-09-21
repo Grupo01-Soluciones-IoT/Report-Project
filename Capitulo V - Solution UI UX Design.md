@@ -1,4 +1,4 @@
-![Sensores - Applications Mock-ups](https://github.com/user-attachments/assets/279550d4-807e-4218-adab-3f84f4c0c5a7)# Capítulo V: Solution UI/UX Design
+# Capítulo V: Solution UI/UX Design
 
 ## 5.1 Style Guidelines
 
