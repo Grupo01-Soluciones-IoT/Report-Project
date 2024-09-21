@@ -1,4 +1,4 @@
-# Capítulo V: Solution UI/UX Design
+![Sensores - Applications Mock-ups](https://github.com/user-attachments/assets/279550d4-807e-4218-adab-3f84f4c0c5a7)# Capítulo V: Solution UI/UX Design
 
 ## 5.1 Style Guidelines
 
@@ -198,7 +198,7 @@ En la sección de Tarjetas para IAgroT, estas servirán para presentar informaci
 
 Estas tarjetas son fundamentales para organizar visualmente la información dentro de IAgroT, ofreciendo a los usuarios acceso rápido y fácil a las diferentes funciones y reportes sin sobrecargar la interfaz.
 
-## 5.3.1. Landing Page Wireframe
+### 5.3.1. Landing Page Wireframe
 
 En esta sección, se presenta la base para el diseño del sitio web de nuestro software, estableciendo los elementos que brindarán una mejor visión del contenido que se mostrará tanto en la plataforma como en la versión móvil.
 
@@ -232,7 +232,7 @@ Este wireframe corresponde a la sección "Contáctanos." A la izquierda, se mues
 
 Enlace: [Figma Wireframe](https://www.figma.com/design/LN2VU2tN0rNd7Xkk9RtQTj/Untitled?node-id=0-1&t=ZviVgomnPOScb13B-1)
 
-## 5.3.2. Landing Page Mock-up
+### 5.3.2. Landing Page Mock-up
 
 Se presenta una versión preliminar de nuestro sitio web, detallando el contenido que incluirá. Esta versión incorpora los colores según nuestra guía de estilos y añade imágenes coherentes con la información presentada, con el objetivo de facilitar al usuario una comprensión más clara de los conceptos que queremos transmitir.
 
@@ -249,3 +249,242 @@ Se presenta una versión preliminar de nuestro sitio web, detallando el contenid
 
 #### Contáctanos
 <img src="images/Contactanos - Landing Page Mock-up.png" alt="Contactanos - Landing Page Mock-up"/>
+
+## 5.4. Applications UX/UI Design
+
+A continuación, se presentan los diseños aplicados para nuestro Mobile Application.
+
+### 5.4.1 Applications Wireframes
+**Segmento Objetivo Agricultor**
+
+<img src="images/Inicio de Sesion - Applications Wireframes.png" alt="Inicio de Sesion - Applications Wireframes"/>
+
+<img src="images/Registro - Applications Wireframes.png" alt="Registro - Applications Wireframes"/>
+
+<img src="images/Sensores - Applications Wireframes.png" alt="Sensores - Applications Wireframes"/>
+
+<img src="images/Sensores Informe - Applications Wireframes.png" alt="Sensores Informe - Applications Wireframes"/>
+
+<img src="images/Chatbot - Applications Wireframes.png" alt="Chatbot - Applications Wireframes"/>
+
+<img src="images/Registrar Sensor - Applications Wireframes.png" alt="Registrar Sensor - Applications Wireframes"/>
+
+<img src="images/Soporte - Applications Wireframes.png" alt="Soporte - Applications Wireframes"/>
+
+<img src="images/Chatbot - Applications Wireframes.png" alt="Chatbot - Applications Wireframes"/>
+
+Enlace: [Applications Wireframes](https://www.figma.com/design/7CoaPJs0RAyKdgYdSQOuqF/Untitled?node-id=0-1&t=BBCe4c8k9FuznVyI-1)
+
+**Segmento Objetivo Empresa Agricultora**
+
+<img src="images/Inicio de Sesion - Applications Wireframes.png" alt="Inicio de Sesion - Applications Wireframes"/>
+
+<img src="images/Registro - Applications Wireframes.png" alt="Registro - Applications Wireframes"/>
+
+<img src="images/Sensores - Applications Wireframes.png" alt="Sensores - Applications Wireframes"/>
+
+<img src="images/Sensores Informe - Applications Wireframes.png" alt="Sensores Informe - Applications Wireframes"/>
+
+<img src="images/Chatbot - Applications Wireframes.png" alt="Chatbot - Applications Wireframes"/>
+
+<img src="images/Registrar Sensor - Applications Wireframes.png" alt="Registrar Sensor - Applications Wireframes"/>
+
+<img src="images/Soporte - Applications Wireframes.png" alt="Soporte - Applications Wireframes"/>
+
+<img src="images/Chatbot - Applications Wireframes.png" alt="Chatbot - Applications Wireframes"/>  
+
+Enlace: [Applications Wireframes](https://www.figma.com/design/7CoaPJs0RAyKdgYdSQOuqF/Untitled?node-id=0-1&t=BBCe4c8k9FuznVyI-1)
+
+### 5.4.2 Applications Wireflow Diagrams
+**Segmento Objetivo Agricultor**
+
+**User Goal: **Como agricultor deseo Iniciar Sesion
+**Descripción: **
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña, para poder ingresar a IAgrot. 
+
+<img src="images/User Goal 1 - Applications Wireflow Diagrams.png" alt="User Goal 1 - Applications Wireflow Diagrams"/>  
+
+**User Goal: **Como agricultor deseo saber cuándo he introducido "contraseña" incorrecta
+**Descripción: **
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña, para poder ingresar a IAgrot. 
+
+<img src="images/User Goal 2 - Applications Wireflow Diagrams.png" alt="User Goal 2 - Applications Wireflow Diagrams"/>  
+
+**User Goal:** Como agricultor deseo saber cuándo he introducido "correo electrónico" incorrecto
+**Descripción: **
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña, para poder ingresar a IAgrot. 
+
+<img src="images/User Goal 3 - Applications Wireflow Diagrams.png" alt="User Goal 3 - Applications Wireflow Diagrams"/>  
+
+**User Goal:** Como agricultor deseo registrarme en AIgrot
+**Descripción: **
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña, para poder ingresar a IAgrot. 
+
+<img src="images/User Goal 4 - Applications Wireflow Diagrams.png" alt="User Goal 4 - Applications Wireflow Diagrams"/>  
+
+**User Goal:** Como agricultor deseo visualizar el reporte de un sensor funcional.
+**Descripción: **
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña, para poder ingresar a IAgrot. 
+
+<img src="images/User Goal 5 - Applications Wireflow Diagrams.png" alt="User Goal 5 - Applications Wireflow Diagrams"/>  
+
+**User Goal:** Como agricultor deseo visualizar un informe general anual del estado de mis recursos.
+**Descripción: **
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña, para poder ingresar a IAgrot. 
+
+<img src="images/User Goal 6 - Applications Wireflow Diagrams.png" alt="User Goal 6 - Applications Wireflow Diagrams"/>  
+
+**User Goal:** Como agricultor deseo interactuar con el chat bot IAgrot.
+Descripción: 
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña, para poder ingresar a IAgrot. 
+
+<img src="images/User Goal 7 - Applications Wireflow Diagrams.png" alt="User Goal 7 - Applications Wireflow Diagrams"/>  
+
+User Goal: Como agricultor deseo registrar un sensor en IAgrot.
+Descripción: 
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña, para poder ingresar a IAgrot. 
+
+<img src="images/User Goal 1 - Applications Wireflow Diagrams.png" alt="User Goal 1 - Applications Wireflow Diagrams"/>  
+
+**User Goal:** Como agricultor deseo ponerme en contacto con el equipo de soporte de IAgrot. 
+**Descripción: **
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electrónico y contraseña, para poder ingresar a IAgrot. 
+
+<img src="images/User Goal 1 - Applications Wireflow Diagrams.png" alt="User Goal 1 - Applications Wireflow Diagrams"/>  
+
+Enlace: [Applications Wireflow Diagrams](https://lucid.app/lucidspark/fd105459-002e-4fc7-8785-4d362b4459be/edit?viewport_loc=816%2C-4472%2C7807%2C3710%2C0_0&invitationId=inv_df8357a4-eeb7-4b1f-bf9c-fbf7e1b223bb) 
+
+**Segmento Objetivo Empresa Agricultora**
+
+**User Goal:** Visualizar el Estado de los Sensores en Tiempo Real
+**Descripción: **
+Como empresa agrícola, deseo ver el estado de mis sensores de manera centralizada para monitorear el funcionamiento y la salud de mis dispositivos.
+
+**User Goal:** Acceder a Reportes Históricos de los Sensores
+**Descripción:** 
+Como empresa agrícola, quiero acceder a informes históricos de los datos recolectados por los sensores para analizar tendencias y tomar decisiones estratégicas sobre mis cultivos.
+
+**User Goal: **Configurar Sensores Remotamente
+**Descripción: **
+Como empresa agrícola, deseo configurar mis sensores a través de la aplicación para optimizar el monitoreo de mis cultivos sin necesidad de desplazarme al campo.
+
+**User Goal:** Autenticarse y Registrarse
+**Descripción: **
+Como empresa agrícola, deseo poder registrarme e iniciar sesión en la aplicación para acceder a la gestión de mis sensores y cultivos.
+
+**User Goal:** Selección de Rol
+**Descripción: **
+Como empresa agrícola, deseo seleccionar mi rol (Empresa Agricultora) para personalizar la experiencia y acceder a las funciones específicas para mi negocio.
+
+**User Goal:** Monitoreo de Sensores
+**Descripción: **
+Como empresa agrícola, deseo visualizar todos mis sensores en una lista para monitorear su funcionamiento y estado en tiempo real.
+
+**User Goal:** Ver detalles del sensor
+**Descripción:** 
+Como empresa agrícola, quiero acceder a la información detallada de cada sensor para verificar su precisión, rango de medición y otros parámetros importantes.
+
+**User Goal:** Visualizar Gráficos e Informes de Sensores
+**Descripción:** 
+Como empresa agrícola, deseo ver los gráficos y estadísticas generadas por cada sensor para analizar el rendimiento y las condiciones de mis cultivos.
+
+**User Goal:** Acceso a Informes Generales
+**Descripción: **
+Como empresa agrícola, deseo acceder a un informe general de operación para evaluar la consistencia, precisión y consumo de energía de mis sensores y equipos.
+
+**User Goal:** Registrar Nuevos Sensores
+**Descripción: **
+Como empresa agrícola, deseo registrar un nuevo sensor con su tipo, estado y otros parámetros para agregarlo a mi red de monitoreo.
+
+**User Goal:** Comunicación a través del ChatBot
+**Descripción:** 
+Como empresa agrícola, deseo poder comunicarme con el chatbot para resolver dudas o recibir soporte técnico sobre el uso de la aplicación y mis sensores.
+
+**User Goal:** Contacto con Soporte Técnico
+**Descripción:** 
+Como empresa agrícola, deseo poder comunicarme con el soporte técnico cuando experimente problemas con mis sensores o la aplicación.
+
+## 5.4.3. Applications Mock-ups 
+**Segmento Objetivo Agricultor**
+
+<img src="images/Inicio de Sesion - Applications Mock-ups.png" alt="Inicio de Sesion - Applications Mock-ups"/> 
+
+<img src="images/Registro - Applications Mock-ups.png" alt="Registro - Applications Mock-ups"/> 
+
+<img src="images/Sensores Informe - Applications Mock-ups.png" alt="Sensores Informe - Applications Mock-ups"/> 
+
+<img src="images/Sensores - Applications Mock-ups.png" alt="Sensores - Applications Mock-ups"/>   
+
+<img src="images/Registrar Sensores - Applications Mock-ups.png" alt="Registrar Sensores - Applications Mock-ups"/> 
+
+<img src="images/Registrar Sensores 2 - Applications Mock-ups.png" alt="Registrar Sensores 2 - Applications Mock-ups"/> 
+
+<img src="images/Soporte - Applications Mock-ups.png" alt="Soporte - Applications Mock-ups"/> 
+
+Enlace: [Applications Mock-ups](https://www.figma.com/design/7CoaPJs0RAyKdgYdSQOuqF/Untitled?node-id=0-1&t=BBCe4c8k9FuznVyI-1 ) 
+
+## 5.4.4. Applications User Flow Diagrams
+**Segmento Objetivo Agricultor**
+
+**User Goal:** Como agricultor, deseo iniciar sesión
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña correctamente, para poder ingresar a IAgrot, de lo contrario se mostrarán mensajes de alerta. 
+
+<img src="images/Iniciar Sesion - Applications User Flow Diagrams.png" alt="Iniciar Sesion - Applications User Flow Diagrams"/>   
+
+**User Goal:** Como agricultor, deseo iniciar sesión
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña correctamente, para poder ingresar a IAgrot, de lo contrario se mostrarán mensajes de alerta. 
+
+<img src="images/Iniciar Sesion - Applications User Flow Diagrams.png" alt="Iniciar Sesion - Applications User Flow Diagrams"/>   
+
+**User Goal:** Como agricultor, deseo iniciar sesión
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña correctamente, para poder ingresar a IAgrot, de lo contrario se mostrarán mensajes de alerta. 
+
+<img src="images/Iniciar Sesion - Applications User Flow Diagrams.png" alt="Iniciar Sesion - Applications User Flow Diagrams"/>   
+
+**User Goal:** Como agricultor, deseo iniciar sesión
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña correctamente, para poder ingresar a IAgrot, de lo contrario se mostrarán mensajes de alerta. 
+
+<img src="images/Iniciar Sesion - Applications User Flow Diagrams.png" alt="Iniciar Sesion - Applications User Flow Diagrams"/>   
+
+**User Goal:** Como agricultor, deseo iniciar sesión
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña correctamente, para poder ingresar a IAgrot, de lo contrario se mostrarán mensajes de alerta. 
+
+<img src="images/Iniciar Sesion - Applications User Flow Diagrams.png" alt="Iniciar Sesion - Applications User Flow Diagrams"/>   
+
+**User Goal:** Como agricultor, deseo iniciar sesión
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña correctamente, para poder ingresar a IAgrot, de lo contrario se mostrarán mensajes de alerta. 
+
+<img src="images/Iniciar Sesion - Applications User Flow Diagrams.png" alt="Iniciar Sesion - Applications User Flow Diagrams"/>   
+
+**User Goal:** Como agricultor, deseo iniciar sesión
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario agricultor para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su Correo electronico y contraseña correctamente, para poder ingresar a IAgrot, de lo contrario se mostrarán mensajes de alerta. 
+
+Enlace: [Applications User Flow Diagrams](https://lucid.app/lucidspark/fd105459-002e-4fc7-8785-4d362b4459be/edit?viewport_loc=816%2C-4472%2C7807%2C3710%2C0_0&invitationId=inv_df8357a4-eeb7-4b1f-bf9c-fbf7e1b223bb) 
+
+**Segmento Objetivo Empresa Agricultora**
+
+**User Goal:** Como empresa agricultora deseo Iniciar Sesión
+La empresa agricultora inicia sesión en la aplicación "IAgrot" utilizando sus credenciales previamente registradas (correo electrónico y contraseña). Este proceso le permite acceder a su cuenta y a las funcionalidades disponibles para monitorear y gestionar sus sensores, cultivos y recursos. En caso de error, se mostrarán mensajes de advertencia claros que guiarán al usuario para ingresar los datos correctos
+
+<img src="images/Inicio Sesion - Empresa Agricultora - Applications User Flow Diagrams.png" alt="Inicio Sesion - Empresa Agricultora - Applications User Flow Diagrams"/>   
+
+**User Goal:** Como empresa agricultora deseo registrarme en IAgrot
+La empresa agricultora completa un proceso de registro proporcionando información básica como nombre de la empresa, correo electrónico, contraseña y otros detalles relevantes. Esto le permitirá crear un perfil en "IAgrot" para acceder a todas las funcionalidades de la plataforma y empezar a gestionar sus cultivos y sensores. El proceso incluye la confirmación de datos ingresados para garantizar la seguridad y validez de la cuenta creada.
+
+<img src="images/Registro - Empresa Agricultora - Applications User Flow Diagrams.png" alt="Registro - Empresa Agricultora - Applications User Flow Diagrams"/>   
+
+**User Goal:** Como empresa agricultora deseo visualizar el reporte de un sensor funcional
+La empresa agricultora selecciona un sensor específico desde su panel de control para visualizar un informe detallado sobre su rendimiento. El reporte incluye datos como rango de medición, precisión, resolución, frecuencia de muestreo, y gráficos que muestran el comportamiento del sensor a lo largo del tiempo. Esto permite a la empresa evaluar el estado actual del sensor y tomar decisiones informadas sobre el monitoreo de sus cultivos.
+
+<img src="images/Visualizar reporte - Empresa Agricultora - Applications User Flow Diagrams.png" alt="Visualizar reporte - Empresa Agricultora - Applications User Flow Diagrams"/>   
+
+**User Goal:** Como empresa agricultora deseo visualizar un informe general anual del estado de mis recursos
+La empresa agricultora accede a un informe anual que presenta una visión general del estado y rendimiento de todos sus recursos, incluyendo sensores y equipos. Este informe incluye métricas clave como la consistencia, precisión, energía consumida, alertas registradas y mantenimiento realizado durante el año. Esta información le permite a la empresa evaluar la eficiencia de sus operaciones, identificar áreas de mejora, y planificar acciones futuras.
+
+<img src="images/Visualizar informe general - Empresa Agricultora - Applications User Flow Diagrams.png" alt="Visualizar informe general - Empresa Agricultora - Applications User Flow Diagrams"/>   
+
+## 5.5. Applications Prototyping
+
+El prototipo de la aplicación web "IAgrot" proporciona una solución integral para empresas agrícolas, comenzando con pantallas de inicio de sesión y registro que permiten a los usuarios acceder fácilmente a la plataforma, con mensajes claros de validación para facilitar la entrada correcta de datos. El diseño incluye una funcionalidad de selección y monitoreo de sensores donde los usuarios pueden identificar rápidamente el estado de sus sensores a través de códigos de color y acceder a informes detallados que incluyen gráficos y estadísticas, proporcionando información clave para la toma de decisiones. Además, la opción de registrar nuevos sensores asegura que las empresas puedan expandir y gestionar su red de monitoreo de manera eficiente.
+
+El prototipo también incorpora un chatbot interactivo que facilita la comunicación y asistencia, mejorando la experiencia del usuario al ofrecer soporte inmediato. La inclusión de una pantalla de soporte técnico permite que los usuarios reporten problemas y reciban ayuda, lo que es crucial para mantener la funcionalidad de sus operaciones. En conjunto, el prototipo demuestra un enfoque bien estructurado y funcional que responde a las necesidades de gestión y monitoreo de las empresas agrícolas, garantizando una experiencia de usuario intuitiva y eficaz.
