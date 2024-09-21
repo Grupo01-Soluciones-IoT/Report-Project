@@ -208,25 +208,25 @@ La landing page se diseñará en un tamaño adecuado para las pantallas de cada 
 
 #### Menú
 
-<img src="images/Big Elements - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+<img src="images/Inicio - Landing Page Wireframe.png" alt="Inicio - Landing Page Wireframe"/>
 
 Este wireframe muestra una barra de navegación estática en la parte superior con enlaces a las secciones principales: "Inicio," "Nosotros," "Servicios," "Planes," y "Únete." Al centro, se destaca un mensaje principal y una breve descripción. A la derecha, hay un espacio para una imagen. En la parte inferior, se incluyen botones para descargar la aplicación desde Google Play y AppGallery, resaltando la disponibilidad móvil. El diseño es sencillo y centrado para facilitar la navegación.
 
 #### Nosotros
 
-<img src="images/Big Elements - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+<img src="images/Nosotros - Landing Page Mock-up - Landing Page Wireframe.png.png" alt="Nosotros - Landing Page Wireframe"/>
 
 Este wireframe muestra la sección "Nosotros" con un diseño limpio y organizado. A la izquierda, se encuentra un título destacado "NOSOTROS" seguido de un breve párrafo que describe la sección. A la derecha, hay un espacio reservado para una imagen representativa. El diseño es simétrico y se enfoca en proporcionar información de manera clara, combinando texto e imagen para captar la atención del usuario.
 
 #### Servicios
 
-<img src="images/Big Elements - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+<img src="images/Servicios - Landing Page Wireframe.png" alt="Servicios - Landing Page Wireframe"/>
 
 Este wireframe corresponde a la sección "Nuestros Servicios." Al centro, se encuentra el título destacado seguido de una breve descripción. Debajo, se presentan tres imágenes alineadas horizontalmente, cada una con su respectivo texto descriptivo. Este diseño ofrece una estructura clara y simétrica que permite resaltar los servicios de manera visual y organizada, facilitando al usuario la comprensión de la oferta.
 
 #### Contáctanos
 
-<img src="images/Big Elements - Style Guidelines.png" alt="Spacing - Style Guidelines"/>  
+<img src="images/Contactanos - Landing Page Wireframe.png" alt="Contactanos - Landing Page Wireframe"/>
 
 Este wireframe corresponde a la sección "Contáctanos." A la izquierda, se muestra un espacio reservado para una imagen. A la derecha, se encuentra un formulario simple que incluye campos para "Nombre," "Correo" y "Mensaje," junto con un botón para "Enviar." Este diseño ofrece una forma clara y directa para que los usuarios se unan o se pongan en contacto, combinando elementos visuales con la funcionalidad de un formulario.
 
