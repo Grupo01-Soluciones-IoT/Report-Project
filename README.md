@@ -63,7 +63,37 @@
     <td align="center">Lucas Benedetti Rivas</td>
     <td align="center">Finalización de Capítulo IV</td>
   </tr>
+  <tr>
+    <td align="center">V0.7</td>
+    <td align="center">16/09/2024</td>
+    <td align="center">Lucas Benedetti Rivas</td>
+    <td align="center">Finalización de Capítulo V</td>
+  </tr>
 </table>
+
+# Project Report Collaboration Insights
+
+Reporte del Proyecto en GitHub: https://github.com/Grupo01-Soluciones-IoT/Report-Project.git 
+## Collaboration Insights - TB1:
+En este entregable, se desarrollo la documentacion de 4 capitulos, Introducción, Requirements Elicitation & Analysis, Requirements Specification y Solution Software Design, a su vez para tener un seguimiento de las tareas para elaborar por cada colaborador se utilizo Notion: 
+
+<p align="center">
+  <img src="images/notion1.png" alt="Insight" width="700"/>
+</p>
+
+### Contributors:
+Se puede visualizar la cantidad de commits por cada colaborador, así como agregaciones y eliminaciones, así como la curva de colaboración, teniendo como pico fin de mes de Agosto.
+
+<p align="center">
+  <img src="images/insight1.png" alt="Insight" width="700"/>
+</p>
+
+### Commits:
+Se visualiza la cantidad de Commits que se realizaron dia a dia, se aprovecho el dia 25 de Agosto, siendo fines de semana para desarrollar de manera continua.
+
+<p align="center">
+  <img src="images/Commits1.png" alt="Insight" width="700"/>
+</p>
 
 # Índice del Proyecto
 
