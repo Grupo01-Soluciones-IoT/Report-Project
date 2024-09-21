@@ -214,7 +214,7 @@ Este wireframe muestra una barra de navegación estática en la parte superior c
 
 #### Nosotros
 
-<img src="images/Nosotros - Landing Page Mock-up - Landing Page Wireframe.png.png" alt="Nosotros - Landing Page Wireframe"/>
+<img src="images/Nosotros - Landing Page Wireframe.png" alt="Nosotros - Landing Page Wireframe"/>
 
 Este wireframe muestra la sección "Nosotros" con un diseño limpio y organizado. A la izquierda, se encuentra un título destacado "NOSOTROS" seguido de un breve párrafo que describe la sección. A la derecha, hay un espacio reservado para una imagen representativa. El diseño es simétrico y se enfoca en proporcionar información de manera clara, combinando texto e imagen para captar la atención del usuario.
 
@@ -242,7 +242,7 @@ Se presenta una versión preliminar de nuestro sitio web, detallando el contenid
 <img src="images/Inicio - Landing Page Mock-up.png" alt="Inicio - Landing Page Mock-up"/>
 
 #### Nosotros
-<img src="images/Nosotros - Landing Page Mock-up - Landing Page Mock-up.png" alt="Nosotros - Landing Page Mock-up"/>
+<img src="images/Nosotros - Landing Page Mock-up.png" alt="Nosotros - Landing Page Mock-up"/>
 
 #### Nuestros Servicios
 <img src="images/Servicios - Landing Page Mock-up.png" alt="Servicios - Landing Page Mock-up"/>
