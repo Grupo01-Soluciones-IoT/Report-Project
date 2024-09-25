@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td style="vertical-align: top; width: 40%;">
-      Soy Lucas Benedetti Rivas, un joven de 24 años, estudiante del 8vo ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Además de mis estudios, me apasiona el desarrollo de aplicaciones web, actividad a la que dedico gran parte de mi tiempo libre. Profesionalmente, me desempeño como practicante en una entidad financiera, donde he tenido la oportunidad de aplicar metodologías ágiles y participar en la mejora continua de procesos críticos.
+      Soy Lucas Benedetti Rivas, un joven de 24 años, estudiante del 8vo ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Además de mis estudios, me apasiona el desarrollo de aplicaciones web, utlizando Vue.js y Java con Springboot como herramientas principales, actividad a la que dedico gran parte de mi tiempo libre. Profesionalmente, me desempeño como practicante en una entidad financiera, donde he tenido la oportunidad de aplicar metodologías ágiles y participar en la mejora continua de procesos críticos.
     </td>
     <td style="vertical-align: top; width: 60%;">
       <img src="images/profile-lucas.jpeg" alt="Brand Logo - IagrOT" width="1080"/>
@@ -82,100 +82,162 @@ Finalmente, se presenta el enfoque estructurado 5W2H:
 
 ### 1.2.2.1. Lean UX Problem Statements
 
-Hoy en día, los fenómenos climáticos extremos, como El Niño y La Niña, han afectado significativamente la agricultura en Perú, especialmente en regiones de la sierra. Los agricultores enfrentan problemas debido a la falta de herramientas integradas para monitorear y adaptarse a estas condiciones adversas. A menudo, los agricultores deben recurrir a métodos tradicionales y poco eficientes para gestionar el impacto climático en sus cultivos, lo que resulta en una baja productividad y una gestión deficiente de los recursos.
+El estado actual de la agricultura en el Perú se ha enfocado principalmente en pequeños y medianos agricultores que enfrentan desafíos significativos como la falta de acceso a información en tiempo real sobre el clima y las condiciones del suelo. Estos agricultores luchan con decisiones ineficientes y no pueden optimizar la producción debido a la falta de datos precisos.
 
-La pregunta clave para abordar este problema es: ¿Cómo podemos desarrollar una solución tecnológica que permita a los agricultores monitorear las condiciones climáticas en tiempo real y optimizar el uso de recursos, para mejorar la resiliencia y productividad de sus cultivos frente a fenómenos climáticos extremos?
+Los Gaps identificado es que los productos y servicios existentes no abordan es la necesidad de una herramienta integral que combine tecnología IoT y analítica de datos para proporcionar información útil y en tiempo real a los agricultores, permitiéndoles adaptarse a las condiciones cambiantes.
 
-Es crucial destacar que nuestro sistema se centrará en la gestión directa de las tareas agrícolas diarias, al proporcionar una plataforma de monitoreo, automatización y recomendación que se conecte con dispositivos IoT, mostrando mejoras en la eficiencia y producción agrícola.
+Nuestro producto IAgroT abordará esta brecha al ofrecer un sistema de monitoreo IoT que recopile datos sobre humedad del suelo, condiciones climáticas y otros factores críticos que afectan la producción agrícola. A través de esta plataforma, los agricultores podrán tomar decisiones informadas que optimicen sus cultivos.
+
+Nuestro enfoque inicial será en pequeños y medianos agricultores que buscan mejorar su productividad y sostenibilidad en un mercado competitivo.
+
+Sabremos que hemos tenido éxito cuando veamos un aumento del 25% en la adopción de nuestra plataforma y una mejora del 30% en la eficiencia de producción reportada por los usuarios.
 
 ### 1.2.2.2. Lean UX Assumptions
+#### Business Outcomes
 
-#### User Assumptions
+Utilizando el concepto de Pirate Metrics como marco para identificar los comportamientos clave que buscamos fomentar:
 
-- **¿Quiénes son nuestros usuarios?**
-  - Agricultores: Buscan herramientas para mejorar la productividad de sus cultivos y optimizar el uso de recursos en un entorno climático cambiante.
-  - Técnicos agrícolas: Necesitan datos precisos y en tiempo real para ofrecer recomendaciones basadas en las condiciones actuales y futuras.
+1. Adquisición (Acquisition)
+Queremos que al menos el 60% de los pequeños y medianos agricultores en nuestra región conozcan y visiten nuestra plataforma IAgroT dentro de los primeros tres meses de lanzamiento.
 
-- **¿Dónde encaja nuestro servicio para los usuarios?**
-  - Nuestro servicio se integra en las operaciones diarias de los agricultores y técnicos, proporcionando herramientas para el monitoreo en tiempo real y la gestión de cultivos.
+2. Activación (Activation)
+Buscamos que el 50% de los agricultores que visitan la plataforma creen una cuenta y configuren su perfil en los primeros días de uso.
 
-- **¿Qué problemas resuelve nuestro producto?**
-  - Optimiza el uso de recursos como agua y nutrientes mediante datos en tiempo real y recomendaciones personalizadas.
-  - Mejora la productividad de los cultivos al adaptar las prácticas agrícolas a las condiciones climáticas actuales y futuras.
-  - Facilita la planificación y gestión de cultivos mediante el análisis de datos históricos y actuales.
+3. Retención (Retention)
+Deseamos que al menos el 40% de los usuarios activos utilicen regularmente la aplicación al menos una vez a la semana para monitorear sus cultivos y obtener recomendaciones, a partir del tercer mes.
 
-- **¿Cuándo y cómo es usado nuestro producto?**
-  - Nuestro producto es utilizado durante todo el ciclo de cultivo, desde la plantación hasta la cosecha.
-  - Se usa a través de una plataforma tecnológica que proporciona datos en tiempo real y recomendaciones sobre la gestión de cultivos y recursos.
+4. Ingresos (Revenue)
+Aspiramos a que el 20% de los usuarios que utilizan la plataforma opten por un plan de suscripción premium para acceder a funcionalidades avanzadas y soporte personalizado en los primeros seis meses.
 
-- **¿Qué características son importantes?**
-  - La precisión y fiabilidad de los datos recopilados por los sensores y dispositivos IoT.
-  - La facilidad de uso de la plataforma, con una interfaz intuitiva para acceder a datos y recomendaciones.
-  - La capacidad de personalización para adaptarse a las necesidades específicas de diferentes tipos de cultivos y condiciones climáticas.
+5. Referidos (Referral)
+Buscamos que al menos el 15% de nuestros usuarios actuales refieran a otros agricultores a nuestra plataforma a través de recomendaciones o programas de incentivos dentro del primer año.
 
-- **¿Cómo debe verse y comportarse nuestro producto?**
-  - La plataforma debe ser visualmente clara y fácil de navegar, con un diseño que facilite el acceso rápido a la información relevante.
-  - Debe transmitir confianza y seguridad, asegurando que los datos proporcionados sean precisos y útiles para la toma de decisiones.
+#### Users
 
-#### Business Assumptions
+Generamos un Prototype User
 
-- **Necesidad del mercado:**
-  - Los agricultores tienen una necesidad urgente de herramientas que les ayuden a mejorar la productividad y gestionar recursos en un entorno climático incierto. Esto puede resultar en una mejora en la eficiencia y sostenibilidad de la agricultura.
+##### Descripción: 
 
-- **Propuesta de valor:**
-  - Nuestra solución tecnológica proporciona datos en tiempo real, recomendaciones personalizadas y automatizaciones que mejoran la gestión de cultivos y la eficiencia en el uso de recursos. Esto resulta en una mayor productividad y sostenibilidad.
+Laura es una agricultora de 32 años que se dedica a cultivar hortalizas en una pequeña finca familiar. Tiene un nivel educativo medio y está abierta a usar nuevas tecnologías para optimizar su producción.
 
-- **Clientes iniciales:**
-  - Agricultores que buscan optimizar sus prácticas agrícolas y técnicos agrícolas que necesitan herramientas para proporcionar recomendaciones basadas en datos precisos.
+##### Objetivos:
+Mejorar el rendimiento de sus cultivos.
+Monitorear la salud del suelo y las condiciones climáticas.
+Acceder a información relevante y actualizada sobre técnicas agrícolas.
+##### Frustraciones:
+Dificultades para acceder a información específica sobre su cultivo.
+Falta de herramientas simples para el monitoreo de su finca.
+Estrés por no saber si está tomando las decisiones correctas para su producción.
+##### Comportamientos:
+Usa su teléfono móvil para buscar información sobre agricultura.
+Participa en grupos de Facebook sobre consejos agrícolas.
+Consume contenido visual y tutoriales en Instagram sobre técnicas de cultivo.
 
-- **Valor principal para los clientes:**
-  - La certeza de que los datos, recomendaciones y automatizaciones proporcionados por nuestra solución mejorarán la productividad de los cultivos y la gestión de recursos de manera efectiva.
+#### Users Outcomes & Benefits
 
-- **Beneficios adicionales:**
-  - Acceso a datos detallados y análisis sobre las condiciones de cultivo.
-  - Mejora en la toma de decisiones y planificación basada en datos en tiempo real.
-  - Mayor eficiencia en la gestión de recursos agrícolas.
+##### ¿Qué intenta lograr el usuario?
+Quiero optimizar el riego de mis cultivos para mejorar su rendimiento y reducir el uso de agua.
 
-- **Adquisición de clientes:**
-  - A través de la promoción en redes sociales, colaboraciones con asociaciones agrícolas, y estrategias de marketing digital dirigidas a agricultores y técnicos.
+##### ¿Cómo quiere sentirse durante y después de este proceso?
+Quiero sentirme segura de que estoy tomando decisiones informadas y responsables sobre mis cultivos, y orgullosa de ver mejoras en mi producción.
 
-- **Modelo de ingresos:**
-  - Ventas directas de la solución tecnológica y suscripciones para acceder a datos y análisis avanzados.
+##### ¿Cómo se acerca nuestro producto o servicio al objetivo o sueño del usuario?
+IAgroT me ayuda a monitorear las condiciones del suelo y el clima en tiempo real, lo que me permite hacer ajustes en el riego de manera efectiva.
 
-- **Competencia:**
-  - Otras soluciones tecnológicas para la gestión agrícola. Nos destacaremos ofreciendo una plataforma adaptada a las necesidades específicas de los agricultores y proporcionando datos y recomendaciones personalizadas.
+##### ¿Por qué buscaría el usuario nuestro producto?
+Quiero acceder a información precisa y útil que me ayude a mejorar mi producción y a ser más eficiente en el uso de recursos.
 
-- **Riesgos:**
-  - La precisión de los datos recopilados por los sensores y la confiabilidad de la plataforma.
+##### ¿Qué cambio de comportamiento podemos observar que indique que ha alcanzado su objetivo?
+Laura ajusta sus patrones de riego en función de los datos que recibe de IAgroT y reporta un aumento en la producción de sus cultivos.
 
-- **Indicadores de éxito:**
-  - Aumento en el uso activo de la plataforma por parte de los agricultores.
-  - Mejora en la productividad de los cultivos y en la gestión de recursos.
-  - Satisfacción y fidelidad de los usuarios.
+#### Solution
 
-- **Supuestos críticos:**
-  - Aceptación del mercado para la solución tecnológica.
-  - Disposición de los usuarios a invertir en herramientas de monitoreo y gestión.
-  - Capacidad de la plataforma para proporcionar datos precisos y útiles.
+##### Framing Question:
+¿Qué soluciones podemos diseñar y construir que sirvan a nuestros usuarios y creen sus resultados deseados?
+
+##### Ideas Generadas a Través de Affinity Mapping:
+##### Aplicación Móvil de Monitoreo en Tiempo Real
+###### Descripción: 
+Desarrollar una aplicación móvil que permita a los agricultores monitorear las condiciones del suelo, la humedad y el clima en tiempo real.
+###### Beneficio: 
+Facilitar la toma de decisiones informadas sobre riego y cuidado de cultivos.
+
+##### Sistema de Notificaciones Inteligentes
+###### Descripción: 
+Implementar un sistema de notificaciones que alerte a los usuarios sobre condiciones críticas, como sequías o excesos de agua, basado en datos de sensores.
+###### Beneficio: 
+Aumentar la proactividad del agricultor en la gestión de sus cultivos.
+
+##### Interfaz de Usuario Simplificada
+
+###### Descripción: 
+Diseñar una interfaz fácil de usar para la aplicación, con gráficos claros y accesibles que presenten datos complejos de manera intuitiva.
+###### Beneficio: 
+Asegurar que incluso los agricultores con menos experiencia tecnológica puedan utilizar la aplicación efectivamente.
+
+##### Funcionalidad de Recomendaciones Personalizadas
+
+###### Descripción: 
+Incluir un sistema de recomendaciones que sugiera prácticas de riego y fertilización basadas en el historial del usuario y condiciones actuales.
+###### Beneficio: 
+Ayudar a los agricultores a optimizar el uso de recursos y mejorar el rendimiento de los cultivos.
+
+##### Integración con Dispositivos IoT
+
+###### Descripción: 
+Facilitar la integración de la aplicación con dispositivos IoT para automatizar el riego y otros procesos agrícolas.
+###### Beneficio: 
+Permitir a los usuarios tener un control más eficiente y a distancia de sus sistemas de riego.
+
+##### Educación y Capacitación a través de la Aplicación
+
+###### Descripción: 
+Proporcionar recursos educativos y tutoriales dentro de la aplicación para ayudar a los agricultores a entender mejor cómo utilizar la tecnología y mejorar sus prácticas agrícolas.
+###### Beneficio: 
+Aumentar la confianza y competencia de los usuarios en el uso de tecnologías agrícolas
 
 ### 1.2.2.3. Lean UX Hypothesis Statements
+Plantilla de Hipótesis
+Utilizaremos la siguiente plantilla para formular nuestras hipótesis:
 
-- **Hipótesis 1:**
-  - **Creemos que** nuestra solución tecnológica para la agricultura, que proporciona datos en tiempo real sobre humedad del suelo, temperatura y condiciones climáticas, mejorará la productividad de los cultivos al permitir una gestión más eficiente. **Sabremos que** hemos tenido éxito cuando al menos el 70% de los agricultores reporten un aumento en la productividad de sus cultivos y una reducción en el uso de recursos como agua y fertilizantes.
+Creemos que lograremos [este resultado comercial]
 
-- **Hipótesis 2:**
-  - **Creemos que** la integración de datos históricos y actuales para la planificación agrícola permitirá a los agricultores tomar decisiones más precisas y adaptarse mejor a las condiciones climáticas cambiantes. **Sabremos que** hemos tenido éxito cuando el 80% de los usuarios indiquen una mejora en la precisión de sus decisiones sobre siembra y cosecha, y una mayor adaptabilidad a las condiciones climáticas.
+Si [estos usuarios]
 
-- **Hipótesis 3:**
-  - **Creemos que** los problemas relacionados con la gestión ineficiente de plagas y enfermedades disminuirán si los agricultores tienen acceso a una plataforma que ofrezca recomendaciones predictivas basadas en inteligencia artificial. **Sabremos que** hemos tenido éxito cuando al menos el 75% de los agricultores reporten una reducción en las pérdidas por plagas y enfermedades y una mayor eficacia en el uso de tratamientos preventivos.
+Alcanzan [este beneficio/resultados de usuario]
 
-- **Hipótesis 4:**
-  - **Creemos que** si ofrecemos una interfaz intuitiva y fácil de usar, que permita a los agricultores y técnicos acceder fácilmente a los datos y recomendaciones sin necesidad de capacitación extensiva. **Sabremos que** hemos tenido éxito cuando al menos el 80% de los usuarios indiquen que encuentran la plataforma fácil de usar y que un 75% de ellos la utilicen regularmente para la gestión de sus cultivos.
+Con [esta característica o solución]
+
+*Hipótesis Propuestas:*
+
+ **Hipótesis 1:**
+Creemos que lograremos aumentar la retención de usuarios en un 20%
+Si los agricultores que utilizan IAgroT
+Alcanzan una reducción del 30% en el tiempo dedicado a la gestión de sus cultivos
+Con la implementación de una aplicación móvil de monitoreo en tiempo real.
+
+**Hipótesis 2:**
+Creemos que lograremos incrementar el número de nuevos usuarios en un 15%
+Si los pequeños agricultores
+Alcanzan una confianza del 40% en la precisión de sus decisiones sobre riego
+Con un sistema de notificaciones inteligentes que los alerta sobre condiciones críticas del suelo.
+
+**Hipótesis 3:**
+Creemos que lograremos mejorar la satisfacción del usuario en un 25%
+Si los agricultores experimentan
+Alcanzan un sentido de control sobre sus operaciones agrícolas
+Con una interfaz de usuario simplificada que facilita el acceso a los datos.
+
+**Hipótesis 4:**
+Creemos que lograremos aumentar la adopción de la aplicación en un 30%
+Si los agricultores
+Alcanzan un acceso fácil a recursos educativos y tutoriales dentro de la aplicación
+Con un sistema integrado de educación y capacitación.
 
 ### 1.2.2.4. Lean UX Canvas
 
 <p align="center">
-  <img src="images/lean-ux-canvas.png" alt="Canvas Model - IagrOT" width="1080"/>
+  <img src="images/leanuxc.jpg" alt="Canvas Model - IagrOT" width="1080"/>
 </p>
 
 ### 1.3. Segmentos objetivo
