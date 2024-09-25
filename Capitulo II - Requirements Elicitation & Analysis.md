@@ -3,6 +3,10 @@
 ## 2.1. Competidores
 
 ### 2.1.1. Análisis competitivo
+
+Este punto se enfoca en identificar y evaluar los competidores directos e indirectos, estudiando sus fortalezas y debilidades, así como las oportunidades y amenazas que representan para nuestro proyecto. El objetivo es detectar áreas de ventaja competitiva y posicionar nuestra solución de manera única en el mercado.
+
+
 <table>
 <thead>
   <tr>
@@ -297,6 +301,8 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Con base en el análisis competitivo, se definirán estrategias y tácticas específicas que nos permitan sobresalir frente a los competidores. Estas estrategias buscarán maximizar nuestras fortalezas, mitigar nuestras debilidades, y aprovechar las oportunidades del mercado, asegurando una ventaja sostenible.
+
 ### Estrategia: Reforzamiento de la Marca
 **Táctica:** Dado que **IAgroT** tiene una misión clara de mejorar la eficiencia agrícola a través de la tecnología, crearemos campañas de marketing que destaquen casos de éxito reales de agricultores que han utilizado nuestra solución. Utilizaremos estos testimonios y estudios de caso en nuestros materiales promocionales para construir credibilidad y reforzar la identidad de marca como líder en tecnología agrícola.
 
@@ -315,6 +321,8 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
+Aquí se establece la metodología para el diseño de entrevistas con usuarios clave. Definir las preguntas adecuadas y estructurar las entrevistas de manera eficaz permitirá obtener información cualitativa valiosa sobre las necesidades, expectativas y comportamientos de los usuarios.
 
 #### Preguntas Generales
 
@@ -349,6 +357,8 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 
 
 ### 2.2.2. Registro de entrevistas
+
+Este apartado se refiere al proceso de capturar y organizar los datos obtenidos durante las entrevistas. Un registro sistemático permitirá extraer patrones y analizar la información para que sea fácilmente utilizable en etapas posteriores del desarrollo.
 
 #### Entrevista 1: Agricultor Pequeño
 
@@ -414,6 +424,9 @@ A continuación, se construirán los User Persona de cada segmento objetivo de n
 <img src="images/User Persona Tecnico.jpeg">
 
 ### 2.3.2. User Task Matrix
+
+La matriz de tareas de usuario es una herramienta fundamental para mapear y analizar las tareas que los usuarios realizan dentro del sistema. Esta herramienta nos permitirá identificar las interacciones clave, optimizar los flujos de trabajo, y garantizar que las funcionalidades cubran las necesidades reales de los usuarios.
+
 ### María Pineda - User Task Matrix
 
 | **Descripción**                                      | **Importancia** | **Frecuencia** |
@@ -446,13 +459,19 @@ El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a gr
 
 ### 2.3.4. Empathy Mapping 
 
+Este proceso es crucial para alinearnos con las perspectivas y emociones de los usuarios finales, lo que nos permitirá diseñar soluciones que no solo cubran sus necesidades funcionales, sino que también generen una experiencia satisfactoria y emocionalmente positiva. El empathy map ayudará a identificar frustraciones, motivaciones y puntos de dolor, mejorando así el diseño y la usabilidad de nuestro producto.
+
 <img src="images/User Journey Mapping Tecnico.jpeg">
 
 ### 2.3.5. As-is Scenario Mapping
 
+El mapeo de escenarios "as-is" se utiliza para describir el estado actual de los procesos y flujos de trabajo. Al documentar estos escenarios, podemos identificar ineficiencias o problemas en el sistema actual, los cuales servirán como base para proponer mejoras en futuras iteraciones.
+
 <img src="images/IAgroT As-is Scenario Mapping.png">
 
 ## Ubiquitous Language
+
+El lenguaje ubicuo es un concepto clave en el desarrollo ágil, ya que busca establecer un lenguaje común entre todos los miembros del equipo, que sea claro y comprensible. Este lenguaje facilita la comunicación y garantiza que todos los involucrados en el proyecto, desde desarrolladores hasta usuarios finales, comprendan y utilicen los mismos términos y conceptos.
 
 - **Climate Resilience (Resiliencia Climática)**  
   Capacidad de los agricultores y sus cultivos para adaptarse y recuperarse de los efectos adversos del cambio climático y condiciones meteorológicas extremas.
