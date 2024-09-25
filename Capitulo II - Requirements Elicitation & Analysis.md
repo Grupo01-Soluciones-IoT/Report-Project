@@ -429,22 +429,23 @@ La matriz de tareas de usuario es una herramienta fundamental para mapear y anal
 
 ### María Pineda - User Task Matrix
 
-| **Descripción**                                      | **Importancia** | **Frecuencia** |
-|------------------------------------------------------|-----------------|----------------|
-| Supervisar el estado de los cultivos                 | Alta            | Siempre        |
-| Preparar el terreno para la siembra                  | Alta            | Siempre        |
-| Monitorear las condiciones climáticas                | Alta            | Siempre        |
-| Regar los cultivos manualmente o con sistemas simples| Media           | A menudo       |
-| Aplicar fertilizantes o pesticidas                   | Alta            | A menudo       |
-| Revisar los precios de mercado                       | Media           | A menudo       |
-| Buscar nuevas técnicas de cultivo                    | Alta            | A menudo       |
-| Vender productos en el mercado local                 | Alta            | A menudo       |
-| Colaborar con otros agricultores                     | Media           | A veces        |
-| Consultar expertos agrícolas o técnicos              | Media           | A veces        |
-| Transportar productos a la ciudad                    | Media           | A veces        |
-| Hacer mantenimiento a herramientas agrícolas         | Baja            | A veces        |
-| Gestionar el financiamiento agrícola                 | Alta            | Rara vez       |
-| Participar en capacitaciones sobre nuevas tecnologías| Alta            | Rara vez       |
+| **Tarea**                                         | **María Pineda - Frecuencia** | **María Pineda - Importancia** | **Juan Pérez - Frecuencia** | **Juan Pérez - Importancia** |
+|---------------------------------------------------|-------------------------------|--------------------------------|-----------------------------|------------------------------|
+| Supervisar el estado de los cultivos              | Alta                          | Muy importante                 | Alta                        | Muy importante                |
+| Preparar el terreno para la siembra               | Media                         | Importante                     | Baja                        | Poco importante               |
+| Monitorear las condiciones climáticas             | Alta                          | Muy importante                 | Alta                        | Muy importante                |
+| Regar los cultivos manualmente o con sistemas simples | Alta                          | Muy importante                 | Baja                        | Poco importante               |
+| Aplicar fertilizantes o pesticidas                | Alta                          | Muy importante                 | Media                       | Importante                    |
+| Revisar los precios de mercado                    | Media                         | Importante                     | Media                       | Importante                    |
+| Buscar nuevas técnicas de cultivo                 | Media                         | Importante                     | Alta                        | Muy importante                |
+| Vender productos en el mercado local              | Alta                          | Muy importante                 | Baja                        | Poco importante               |
+| Colaborar con otros agricultores                  | Media                         | Importante                     | Media                       | Importante                    |
+| Consultar expertos agrícolas o técnicos           | Baja                          | Importante                     | Alta                        | Muy importante                |
+| Transportar productos a la ciudad                 | Baja                          | Poco importante                | Baja                        | Poco importante               |
+| Hacer mantenimiento a herramientas agrícolas      | Media                         | Importante                     | Media                       | Importante                    |
+| Gestionar el financiamiento agrícola              | Baja                          | Poco importante                | Media                       | Importante                    |
+| Participar en capacitaciones sobre nuevas tecnologías | Baja                          | Poco importante                | Alta                        | Muy importante                |
+
 
 
 ### 2.3.3 User Journey Mapping
