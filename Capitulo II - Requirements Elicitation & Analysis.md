@@ -362,7 +362,15 @@ Este apartado se refiere al proceso de capturar y organizar los datos obtenidos 
 
 #### Entrevista 1: Agricultor Pequeño
 
-Entrevistado: Eleuterio Chavez
+Nombres: Eleuterio Segundo
+
+Apellidos: Chavez Quispe
+
+Edad: 25 años
+
+Estado civil: Soltero
+
+Provincia: Cajamarca
 
 Entrevistador: Jonatan Curi
 
@@ -372,11 +380,19 @@ Evidencia de la reunión
 
 <img src="images/Interview 1.png">
 
-Resumen: En la entrevista, se habló sobre la idea de IAgroT, una solución para optimizar la gestión agrícola mediante IoT y una aplicación móvil. Eleuterio Chávez, un agricultor con una hectárea de cultivos, comentó que su mayor desafío es la sequedad estacional y la falta de un sistema eficiente de riego, ya que no utiliza tecnología y se basa en su experiencia. Se discutió cómo IAgroT podría ayudar, pero Eleuterio mencionó que la mayor limitación sería la distancia para monitorear los cultivos, debido a la falta de wifi y la limitada cobertura de bluetooth, expresando su interés en una solución que no dependa de estos.
+Eleuterio es un agricultor pragmático y resiliente, que aunque desconfía de la tecnología, está abierto a soluciones simples y prácticas. No tiene afinidad por marcas tecnológicas y confía más en recomendaciones de amigos y familiares. Actualmente solo utiliza un teléfono móvil básico para sus comunicaciones y no emplea IoT ni tecnología avanzada. Prefiere la interacción cara a cara y tiene un uso muy limitado de internet o redes sociales. En cuanto a dispositivos, solo cuenta con su teléfono básico, lo que le impide utilizar aplicaciones sofisticadas. Sus principales limitaciones técnicas son la falta de wifi y la escasa cobertura de Bluetooth en su área, lo que genera dudas sobre la viabilidad de soluciones IoT.
 
 #### Entrevista 2: Agricultora Pequeño
 
-Entrevistado: Nikole Garcia
+Nombres: Nikole Ivanna
+
+Apellidos: Garcia Price
+
+Edad: 28 años
+
+Estado civil: Soltera
+
+Distrito: San Martin de Porres
 
 Entrevistador: Willy Valentin
 
@@ -386,14 +402,22 @@ Evidencia de la reunión
 
 <img src="images/Interview 2.png">
 
-Resumen: Nikole Garcia, con 5 años de experiencia en la agricultura y propietaria de 5 hectáreas de arroz, comentó en la entrevista que le gustaría implementar soluciones tecnológicas para mejorar la supervisión de sus cultivos, especialmente en el control de plagas y la gestión de cambios de humedad y condiciones climáticas. Aunque actualmente no utiliza tecnología para estos fines, expresó su interés en herramientas que le permitan un monitoreo eficiente y remoto de sus tierras. Sin embargo, resaltó que la solución debe ser accesible y adaptable, dado que en algunas áreas de su terreno la conectividad es limitada.
+Nikole es una agricultora proactiva con interés en implementar soluciones tecnológicas que mejoren la eficiencia de sus cultivos. Aunque no tiene una preferencia clara por marcas tecnológicas, está abierta a nuevas herramientas siempre que sean accesibles y útiles para su contexto. Actualmente no utiliza tecnología avanzada, pero le gustaría contar con sistemas de monitoreo remoto para la supervisión de sus tierras. Se informa a través de la web y las recomendaciones de sus colegas, utilizando un teléfono móvil que soporta aplicaciones, aunque no especializado para la agricultura. Sin embargo, enfrenta la limitación de una conectividad irregular en algunas áreas de su terreno.
 
 
 #### Entrevista 3: Agricultora Pequeño
 
-Entrevistado: Diego Merino
+Nombres: Diego Martin
+
+Apellidos: Merino Mas
 
 Entrevistador: Clara Valverde 
+
+Edad: 22 años
+
+Estado civil: Soltera
+
+Distrito: San Martin de Porres
 
 Url: https://youtu.be/knHeN7ZoThU
 
@@ -401,8 +425,7 @@ Evidencia de la reunión
 
 <img src="images/Interview 3.jpeg">
 
-Resumen: Diego Merino, enfrentan desafíos significativos en cuanto al acceso a recursos como agua y fertilizantes, además de las condiciones climáticas cambiantes. Aunque utilizan métodos tradicionales para la gestión de cultivos, muestran interés en soluciones tecnológicas que les ayuden a monitorear sus cultivos en tiempo real, siempre y cuando el costo sea accesible y reciban una capacitación adecuada. Las principales preocupaciones se centran en la inversión inicial y la facilidad de uso de la tecnología. Los beneficios esperados incluyen una mayor eficiencia en el uso de recursos y mejores rendimientos agrícolas. Esta información sugiere que el desarrollo de soluciones tecnológicas para agricultores de pequeña y mediana escala debería enfocarse en la simplicidad de uso, accesibilidad económica y soporte técnico detallado para asegurar su adopción.
-
+Diego es un agricultor que sigue métodos tradicionales, pero muestra curiosidad por tecnologías que le ayuden a mejorar la eficiencia de sus cultivos. Prefiere soluciones asequibles que incluyan soporte técnico, sin preferencias específicas por marcas. Aunque no tiene experiencia con tecnologías avanzadas, está interesado en herramientas que le permitan monitorear sus cultivos en tiempo real, siempre que sean fáciles de usar. Su interacción con la tecnología es mínima, y prefiere recibir capacitación detallada antes de adoptar nuevas herramientas. Sus dispositivos son básicos, y sus principales preocupaciones giran en torno al costo inicial y la facilidad de uso de la tecnología.
 
 
 ### 2.2.3. Análisis de entrevistas
