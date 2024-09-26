@@ -324,3 +324,45 @@ Una vez que se complete el despliegue, Railway te proporcionará una URL única 
 ## 6.2.1. Sprint 1
 
 ### 6.2.1.1. Sprint Planning 1.
+
+| **Sprint Planning Meeting** |                                         |
+|-----------------------------|-----------------------------------------|
+| **Sprint #**                | Sprint 1                                |
+| **Sprint Planning Background**|                                         |
+| **Date**                    | 2024-09-21                              |
+| **Time**                    | 10:00 AM                                |
+| **Location**                | Google Meet                         |
+| **Prepared By**             | Benedetti Rivas. Lucas Sebastian           |
+| **Attendees**               | Benedetti Rivas. Lucas Sebastian, Curi Montero. Jonatan Omar, Valentin Ricaldi. Willy David, Valverde Salazar. Clara Angie |
+| **Sprint n – 1 Review Summary** | Se completó la funcionalidad básica de la aplicación web, incluye el login, creacion de perfil, asi como poder verificar los campos del usuario. El Product Owner sugirió mejoras en la usabilidad y claridad de los testimonios de usuarios (US 3). y implementar los cambios respectivos a la autenticacion en el siguiente Sprint |
+| **Sprint n – 1 Retrospective Summary** |  El equipo trabajó de manera colaborativa y cumplió con los tiempos planificados. El diseño inicial de la landing page fue bien recibido. Hubo problemas de comunicación durante las fases iniciales. Se decidió mejorar la sincronización entre diseñadores y desarrolladores. |
+| **Sprint Goal & User Stories**         |                                  |
+| **Sprint 1 Goal**                     | Nuestro enfoque es entregar una landing page completamente funcional, con un sistema de registro de usuarios operativo. Creemos que esto proporcionará claridad y confianza a los usuarios potenciales. Esto se confirmará cuando los usuarios completen el proceso de registro sin problemas. |
+| **Sprint 1 Velocity**                 | El equipo ha estimado que puede completar 20 Story Points durante este Sprint. Se trabajará principalmente en la construcción de la página principal y en los procesos de registro e inicio de sesión. |
+| **Sum of Story Points**               | La suma de los Story Points para este Sprint es 20 Story Points. |
+
+
+### 6.2.1.2. Sprint Backlog 1.
+
+El objetivo principal de este Sprint es completar la funcionalidad clave de la aplicación, enfocándonos en la implementación de la landing page y los procesos de registro e inicio de sesión. Se utilizará Trello como herramienta de control para gestionar el progreso de las tareas asignadas. A continuación, se presenta un screenshot del Board en Notion, junto con el enlace público para acceder al mismo.
+
+**Screenshot del Board**  
+![Sprint Board Screenshot](url_del_screenshot)
+
+**Enlace al Board en Trello:** [Acceder al Board](url_del_board)
+
+### Tabla de Control de Estado del Sprint
+
+
+| **Id**         | **Title**         | **Id**        | **Title**              | **Description**                                                                                          | **Estimation (Hours)** | **Assigned To**               | **Status**        |
+| -------------- | ----------------- | ------------- | ---------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------------- | ----------------- |
+| US 1           | Landing Page      | Task 1.1      | Diseño inicial de la landing page | Crear el diseño visual y estructura básica de la landing page.                                            | 8                      | Valverde Salazar Clara Angie | Done         |
+| US 1           | Landing Page      | Task 1.2      | Desarrollo de Frontend  | Implementar el código frontend de la landing page, con todos los elementos clave.                         | 12                     | Benedetti Rivas Lucas Sebastian  | Done            |
+| US 2           | Funcionalidades   | Task 2.1      | Crear resumen de funcionalidades | Desarrollar la sección que muestre un resumen claro de las funcionalidades principales de la aplicación.   | 6                      | Benedetti Rivas Lucas Sebastian | Done          |
+| US 3           | Testimonios       | Task 3.1      | Cargar testimonios      | Implementar la carga dinámica de testimonios de usuarios.                                                 | 4                      | Curi Montero, Jonatan Omar     | Done             |
+| US 4           | CTA               | Task 4.1      | Implementar CTA         | Crear una llamada a la acción visible y funcional que redirija a la página de registro.                    | 5                      | Curi Montero, Jonatan Omar  | Done              |
+| US 5           | Registro de Usuario| Task 5.1      | Implementar validación de datos    | Implementar la validación de datos en el formulario de registro.                                          | 6                      | Benedetti Rivas Lucas Sebastian         | Done             |
+| US 6           | Inicio de Sesión  | Task 6.1      | Desarrollar sistema de autenticación | Crear la lógica de autenticación para el inicio de sesión en la aplicación.                                | 10                     | Benedetti Rivas Lucas Sebastian        | Done             |
+| US 14          | Monitoreo de Cosechas | Task 14.1  | Registro y monitoreo de cosechas | Implementar el registro de los cultivos y el monitoreo de su crecimiento basado en los datos ingresados.   | 8                      | Benedetti Rivas Lucas Sebastian         | Done              |
+| US 17          | Noticias Agrícolas| Task 17.1     | Integrar noticias agrícolas | Implementar la visualización de una lista de noticias relevantes sobre agricultura, actualizadas en tiempo real. | 3                      | Benedetti Rivas Lucas Sebastian         | Done            |
+| -              | Constraint        | Task C1       | Revisar seguridad y cumplimiento | Asegurarse de que las medidas de seguridad básicas están cubiertas antes de implementar el login.         | 5                      | Benedetti Rivas Lucas Sebastian         | In-Process           |
