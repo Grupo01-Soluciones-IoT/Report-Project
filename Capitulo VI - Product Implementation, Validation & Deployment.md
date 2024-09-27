@@ -403,8 +403,22 @@ Durante este Sprint, se implementaron y probaron las funcionalidades principales
   <img src="images/edit_profile_view.jpg"/>
 
 
-
-
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+
+
 ### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Durante este Sprint, se completó el despliegue de la landing page en Netlify, asegurando que la página esté accesible y funcionando correctamente. Se realizaron pruebas básicas de accesibilidad y rendimiento para garantizar su estabilidad. A continuación, se presentan capturas de pantalla que evidencian el estado del despliegue y el acceso a la landing page.
+
+ <img src="images/despliegue_landing.jpg"/>
+ 
+ <img src="images/creacion_github.jpg"/>
+
+ <img src="images/variables_entorno.jpg"/>
+
+ <img src="images/localizacion_servidor.jpg"/>   
+
+
 ### 6.2.1.8. Team Collaboration Insights during Sprint
+
+
