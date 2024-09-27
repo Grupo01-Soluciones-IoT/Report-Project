@@ -421,4 +421,16 @@ Durante este Sprint, se completó el despliegue de la landing page en Netlify, a
 
 ### 6.2.1.8. Team Collaboration Insights during Sprint
 
+Durante este Sprint, la colaboración del equipo fue clave para el avance en las tareas de desarrollo. Se realizaron diversos commits tanto en el desarrollo del frontend como en la creación del reporte en formato .md, lo que permitió mantener la documentación actualizada y el código alineado con los objetivos del sprint. A continuación, se presenta una lista de los commits realizados, mostrando las contribuciones en ambas áreas y reflejando el trabajo colaborativo del equipo.
 
+### Reporte
+
+<img src="images/commits_general.png"/> 
+
+<img src="images/commits_participantes.png"/> 
+
+### Frontend App Web
+
+<img src="images/commits_general_front.png"/> 
+
+<img src="images/commits_participantes_front.png"/> 
