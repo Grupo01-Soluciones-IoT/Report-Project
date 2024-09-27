@@ -74,6 +74,13 @@
 # Project Report Collaboration Insights
 
 Reporte del Proyecto en GitHub: https://github.com/Grupo01-Soluciones-IoT/Report-Project.git 
+
+Frontend Application en Github: https://github.com/Grupo01-Soluciones-IoT/Front-End.git
+
+Mobile App en Github: https://github.com/Grupo01-Soluciones-IoT/Mobile-App.git
+
+Landing Page en Github: https://github.com/Grupo01-Soluciones-IoT/Landing-Page.git
+
 ## Collaboration Insights - TB1:
 En este entregable, se desarrollo la documentacion de 4 capitulos, Introducción, Requirements Elicitation & Analysis, Requirements Specification y Solution Software Design, a su vez para tener un seguimiento de las tareas para elaborar por cada colaborador se utilizo Notion: 
 
@@ -112,7 +119,6 @@ Se puede visualizar la cantidad de commits por cada colaborador, así como agreg
 ### Frontend App Web
 
 <img src="images/commits_general_front.png"/> 
-
 
 
 ### Commits:
