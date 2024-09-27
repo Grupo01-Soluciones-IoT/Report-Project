@@ -386,7 +386,25 @@ Durante este Sprint, se desarrollaron y ejecutaron pruebas unitarias, de integra
 FALTA TABLA CON COMMITS DE TESTING
 
 
-### 6.2.1.5. Execution Evidence for Sprint Review.
+### 6.2.1.5. Execution Evidence for Sprint Review
+
+Durante este Sprint, se implementaron y probaron las funcionalidades principales de la aplicación web, relacionadas con las User Stories especificadas. Se desarrollaron interfaces clave, y se realizaron pruebas visuales para validar el correcto funcionamiento de las vistas y su interacción. A continuación, se presentan capturas de pantalla de la aplicación en su estado actual, mostrando las características implementadas y los avances logrados en este ciclo de desarrollo.
+
+  <img src="images/login_view.jpg"/>
+
+  <img src="images/register_view.jpg"/>
+
+  <img src="images/dashboard_view.jpg"/>
+
+  <img src="images/harvest_view.jpg"/>
+
+  <img src="images/new_view.jpg"/>
+
+  <img src="images/edit_profile_view.jpg"/>
+
+
+
+
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
 ### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 ### 6.2.1.8. Team Collaboration Insights during Sprint
