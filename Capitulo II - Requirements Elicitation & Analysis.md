@@ -3,6 +3,10 @@
 ## 2.1. Competidores
 
 ### 2.1.1. Análisis competitivo
+
+Este punto se enfoca en identificar y evaluar los competidores directos e indirectos, estudiando sus fortalezas y debilidades, así como las oportunidades y amenazas que representan para nuestro proyecto. El objetivo es detectar áreas de ventaja competitiva y posicionar nuestra solución de manera única en el mercado.
+
+
 <table>
 <thead>
   <tr>
@@ -297,6 +301,8 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Con base en el análisis competitivo, se definirán estrategias y tácticas específicas que nos permitan sobresalir frente a los competidores. Estas estrategias buscarán maximizar nuestras fortalezas, mitigar nuestras debilidades, y aprovechar las oportunidades del mercado, asegurando una ventaja sostenible.
+
 ### Estrategia: Reforzamiento de la Marca
 **Táctica:** Dado que **IAgroT** tiene una misión clara de mejorar la eficiencia agrícola a través de la tecnología, crearemos campañas de marketing que destaquen casos de éxito reales de agricultores que han utilizado nuestra solución. Utilizaremos estos testimonios y estudios de caso en nuestros materiales promocionales para construir credibilidad y reforzar la identidad de marca como líder en tecnología agrícola.
 
@@ -315,6 +321,8 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+
+Aquí se establece la metodología para el diseño de entrevistas con usuarios clave. Definir las preguntas adecuadas y estructurar las entrevistas de manera eficaz permitirá obtener información cualitativa valiosa sobre las necesidades, expectativas y comportamientos de los usuarios.
 
 #### Preguntas Generales
 
@@ -350,9 +358,19 @@ Rápido avance tecnológico que puede hacer que la plataforma quede obsoleta.</t
 
 ### 2.2.2. Registro de entrevistas
 
+Este apartado se refiere al proceso de capturar y organizar los datos obtenidos durante las entrevistas. Un registro sistemático permitirá extraer patrones y analizar la información para que sea fácilmente utilizable en etapas posteriores del desarrollo.
+
 #### Entrevista 1: Agricultor Pequeño
 
-Entrevistado: Eleuterio Chavez
+Nombres: Eleuterio Segundo
+
+Apellidos: Chavez Quispe
+
+Edad: 25 años
+
+Estado civil: Soltero
+
+Provincia: Cajamarca
 
 Entrevistador: Jonatan Curi
 
@@ -362,11 +380,19 @@ Evidencia de la reunión
 
 <img src="images/Interview 1.png">
 
-Resumen: En la entrevista, se habló sobre la idea de IAgroT, una solución para optimizar la gestión agrícola mediante IoT y una aplicación móvil. Eleuterio Chávez, un agricultor con una hectárea de cultivos, comentó que su mayor desafío es la sequedad estacional y la falta de un sistema eficiente de riego, ya que no utiliza tecnología y se basa en su experiencia. Se discutió cómo IAgroT podría ayudar, pero Eleuterio mencionó que la mayor limitación sería la distancia para monitorear los cultivos, debido a la falta de wifi y la limitada cobertura de bluetooth, expresando su interés en una solución que no dependa de estos.
+Eleuterio es un agricultor pragmático y resiliente, que aunque desconfía de la tecnología, está abierto a soluciones simples y prácticas. No tiene afinidad por marcas tecnológicas y confía más en recomendaciones de amigos y familiares. Actualmente solo utiliza un teléfono móvil básico para sus comunicaciones y no emplea IoT ni tecnología avanzada. Prefiere la interacción cara a cara y tiene un uso muy limitado de internet o redes sociales. En cuanto a dispositivos, solo cuenta con su teléfono básico, lo que le impide utilizar aplicaciones sofisticadas. Sus principales limitaciones técnicas son la falta de wifi y la escasa cobertura de Bluetooth en su área, lo que genera dudas sobre la viabilidad de soluciones IoT.
 
 #### Entrevista 2: Agricultora Pequeño
 
-Entrevistado: Nikole Garcia
+Nombres: Nikole Ivanna
+
+Apellidos: Garcia Price
+
+Edad: 28 años
+
+Estado civil: Soltera
+
+Distrito: San Martin de Porres
 
 Entrevistador: Willy Valentin
 
@@ -376,14 +402,22 @@ Evidencia de la reunión
 
 <img src="images/Interview 2.png">
 
-Resumen: Nikole Garcia, con 5 años de experiencia en la agricultura y propietaria de 5 hectáreas de arroz, comentó en la entrevista que le gustaría implementar soluciones tecnológicas para mejorar la supervisión de sus cultivos, especialmente en el control de plagas y la gestión de cambios de humedad y condiciones climáticas. Aunque actualmente no utiliza tecnología para estos fines, expresó su interés en herramientas que le permitan un monitoreo eficiente y remoto de sus tierras. Sin embargo, resaltó que la solución debe ser accesible y adaptable, dado que en algunas áreas de su terreno la conectividad es limitada.
+Nikole es una agricultora proactiva con interés en implementar soluciones tecnológicas que mejoren la eficiencia de sus cultivos. Aunque no tiene una preferencia clara por marcas tecnológicas, está abierta a nuevas herramientas siempre que sean accesibles y útiles para su contexto. Actualmente no utiliza tecnología avanzada, pero le gustaría contar con sistemas de monitoreo remoto para la supervisión de sus tierras. Se informa a través de la web y las recomendaciones de sus colegas, utilizando un teléfono móvil que soporta aplicaciones, aunque no especializado para la agricultura. Sin embargo, enfrenta la limitación de una conectividad irregular en algunas áreas de su terreno.
 
 
 #### Entrevista 3: Agricultora Pequeño
 
-Entrevistado: Diego Merino
+Nombres: Diego Martin
+
+Apellidos: Merino Mas
 
 Entrevistador: Clara Valverde 
+
+Edad: 22 años
+
+Estado civil: Soltera
+
+Distrito: San Martin de Porres
 
 Url: https://youtu.be/knHeN7ZoThU
 
@@ -391,8 +425,7 @@ Evidencia de la reunión
 
 <img src="images/Interview 3.jpeg">
 
-Resumen: Diego Merino, enfrentan desafíos significativos en cuanto al acceso a recursos como agua y fertilizantes, además de las condiciones climáticas cambiantes. Aunque utilizan métodos tradicionales para la gestión de cultivos, muestran interés en soluciones tecnológicas que les ayuden a monitorear sus cultivos en tiempo real, siempre y cuando el costo sea accesible y reciban una capacitación adecuada. Las principales preocupaciones se centran en la inversión inicial y la facilidad de uso de la tecnología. Los beneficios esperados incluyen una mayor eficiencia en el uso de recursos y mejores rendimientos agrícolas. Esta información sugiere que el desarrollo de soluciones tecnológicas para agricultores de pequeña y mediana escala debería enfocarse en la simplicidad de uso, accesibilidad económica y soporte técnico detallado para asegurar su adopción.
-
+Diego es un agricultor que sigue métodos tradicionales, pero muestra curiosidad por tecnologías que le ayuden a mejorar la eficiencia de sus cultivos. Prefiere soluciones asequibles que incluyan soporte técnico, sin preferencias específicas por marcas. Aunque no tiene experiencia con tecnologías avanzadas, está interesado en herramientas que le permitan monitorear sus cultivos en tiempo real, siempre que sean fáciles de usar. Su interacción con la tecnología es mínima, y prefiere recibir capacitación detallada antes de adoptar nuevas herramientas. Sus dispositivos son básicos, y sus principales preocupaciones giran en torno al costo inicial y la facilidad de uso de la tecnología.
 
 
 ### 2.2.3. Análisis de entrevistas
@@ -405,33 +438,37 @@ Ambos agricultores mostraron apertura hacia la implementación de soluciones tec
 
 A continuación, se construirán los User Persona de cada segmento objetivo de nuestra aplicación. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas; principalmente, los que muestran los objetivos, motivaciones y frustraciones con las que cuentan cada uno de los sectores que conforman al público al que va dirigida la aplicación. Es decir, se presentará tanto un estereotipo de un agricultor como el de un de un técnico agrícola. 
 
-### User Persona – Agricultor 
+### User Persona – Agricultor Pequeño
 
-<img src="images/User Persona Agricultor.png">
+<img src="images/User Persona Eleuterio.png">
 
-### User Persona – Técnico agrícola 
+### User Persona –  Técnico agrícola
 
-<img src="images/User Persona Tecnico.jpeg">
+<img src="images/User Persona Nikole.png">
 
 ### 2.3.2. User Task Matrix
+
+La matriz de tareas de usuario es una herramienta fundamental para mapear y analizar las tareas que los usuarios realizan dentro del sistema. Esta herramienta nos permitirá identificar las interacciones clave, optimizar los flujos de trabajo, y garantizar que las funcionalidades cubran las necesidades reales de los usuarios.
+
 ### María Pineda - User Task Matrix
 
-| **Descripción**                                      | **Importancia** | **Frecuencia** |
-|------------------------------------------------------|-----------------|----------------|
-| Supervisar el estado de los cultivos                 | Alta            | Siempre        |
-| Preparar el terreno para la siembra                  | Alta            | Siempre        |
-| Monitorear las condiciones climáticas                | Alta            | Siempre        |
-| Regar los cultivos manualmente o con sistemas simples| Media           | A menudo       |
-| Aplicar fertilizantes o pesticidas                   | Alta            | A menudo       |
-| Revisar los precios de mercado                       | Media           | A menudo       |
-| Buscar nuevas técnicas de cultivo                    | Alta            | A menudo       |
-| Vender productos en el mercado local                 | Alta            | A menudo       |
-| Colaborar con otros agricultores                     | Media           | A veces        |
-| Consultar expertos agrícolas o técnicos              | Media           | A veces        |
-| Transportar productos a la ciudad                    | Media           | A veces        |
-| Hacer mantenimiento a herramientas agrícolas         | Baja            | A veces        |
-| Gestionar el financiamiento agrícola                 | Alta            | Rara vez       |
-| Participar en capacitaciones sobre nuevas tecnologías| Alta            | Rara vez       |
+| **Tarea**                                         | **María Pineda - Frecuencia** | **María Pineda - Importancia** | **Juan Pérez - Frecuencia** | **Juan Pérez - Importancia** |
+|---------------------------------------------------|-------------------------------|--------------------------------|-----------------------------|------------------------------|
+| Supervisar el estado de los cultivos              | Alta                          | Muy importante                 | Alta                        | Muy importante                |
+| Preparar el terreno para la siembra               | Media                         | Importante                     | Baja                        | Poco importante               |
+| Monitorear las condiciones climáticas             | Alta                          | Muy importante                 | Alta                        | Muy importante                |
+| Regar los cultivos manualmente o con sistemas simples | Alta                          | Muy importante                 | Baja                        | Poco importante               |
+| Aplicar fertilizantes o pesticidas                | Alta                          | Muy importante                 | Media                       | Importante                    |
+| Revisar los precios de mercado                    | Media                         | Importante                     | Media                       | Importante                    |
+| Buscar nuevas técnicas de cultivo                 | Media                         | Importante                     | Alta                        | Muy importante                |
+| Vender productos en el mercado local              | Alta                          | Muy importante                 | Baja                        | Poco importante               |
+| Colaborar con otros agricultores                  | Media                         | Importante                     | Media                       | Importante                    |
+| Consultar expertos agrícolas o técnicos           | Baja                          | Importante                     | Alta                        | Muy importante                |
+| Transportar productos a la ciudad                 | Baja                          | Poco importante                | Baja                        | Poco importante               |
+| Hacer mantenimiento a herramientas agrícolas      | Media                         | Importante                     | Media                       | Importante                    |
+| Gestionar el financiamiento agrícola              | Baja                          | Poco importante                | Media                       | Importante                    |
+| Participar en capacitaciones sobre nuevas tecnologías | Baja                          | Poco importante                | Alta                        | Muy importante                |
+
 
 
 ### 2.3.3 User Journey Mapping
@@ -440,19 +477,33 @@ El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a gr
 
 ### User Journey Mapping – Agricultor 
 
-<img src="images/User Journey Mapping Agricultor.jpeg">
+<img src="images/Customer journey Agricultor.png">
 
 ### User Journey Mapping – Técnico agrícola 
 
+<img src="images/Customer journey Agricultor Mediano.png">
+
 ### 2.3.4. Empathy Mapping 
 
-<img src="images/User Journey Mapping Tecnico.jpeg">
+Este proceso es crucial para alinearnos con las perspectivas y emociones de los usuarios finales, lo que nos permitirá diseñar soluciones que no solo cubran sus necesidades funcionales, sino que también generen una experiencia satisfactoria y emocionalmente positiva. El empathy map ayudará a identificar frustraciones, motivaciones y puntos de dolor, mejorando así el diseño y la usabilidad de nuestro producto.
+
+### User Journey Mapping – Agricultor 
+
+<img src="images/Empathy map Agricultor.png">
+
+### User Journey Mapping – Técnico agrícola 
+
+<img src="images/Empathy map Agricultor Mediano.png">
 
 ### 2.3.5. As-is Scenario Mapping
+
+El mapeo de escenarios "as-is" se utiliza para describir el estado actual de los procesos y flujos de trabajo. Al documentar estos escenarios, podemos identificar ineficiencias o problemas en el sistema actual, los cuales servirán como base para proponer mejoras en futuras iteraciones.
 
 <img src="images/IAgroT As-is Scenario Mapping.png">
 
 ## Ubiquitous Language
+
+El lenguaje ubicuo es un concepto clave en el desarrollo ágil, ya que busca establecer un lenguaje común entre todos los miembros del equipo, que sea claro y comprensible. Este lenguaje facilita la comunicación y garantiza que todos los involucrados en el proyecto, desde desarrolladores hasta usuarios finales, comprendan y utilicen los mismos términos y conceptos.
 
 - **Climate Resilience (Resiliencia Climática)**  
   Capacidad de los agricultores y sus cultivos para adaptarse y recuperarse de los efectos adversos del cambio climático y condiciones meteorológicas extremas.
