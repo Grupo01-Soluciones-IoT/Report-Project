@@ -1,4 +1,4 @@
-# Capítulo V: Solution UI/UX Design
+# Capítulo V: Solution UI UX Design
 
 ## 5.1 Style Guidelines
 
