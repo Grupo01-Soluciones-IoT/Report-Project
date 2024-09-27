@@ -405,6 +405,23 @@ Durante este Sprint, se implementaron y probaron las funcionalidades principales
 
 ### 6.2.1.6. Services Documentation Evidence for Sprint Review.
 
+Durante este Sprint, se desarrolló la documentación de los servicios creados para el FakeAPI, proporcionando detalles sobre su estructura, funcionamiento y endpoints disponibles. Esta documentación asegura que los servicios puedan ser fácilmente comprendidos e integrados por otros desarrolladores o equipos. A continuación, se incluye la evidencia del trabajo realizado, con ejemplos de uso y las especificaciones técnicas relevantes para cada servicio del FakeAPI.
+
+Se utilizo mockapi como fakeapi para este sprint
+
+<img src="images/seleccion_api.jpg"/>
+
+Tenemos dos instancias de mockapi debido a limitaciones con la versión gratuita
+
+<img src="images/instancias.jpg"/>
+
+User y news
+
+<img src="images/user_news.jpg"/>
+
+Se tienen los siguientes endpoints por cada contexto
+
+<img src="images/endpoints.jpg"/>
 
 ### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 
