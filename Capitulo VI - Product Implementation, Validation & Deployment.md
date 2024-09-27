@@ -367,27 +367,26 @@ El objetivo principal de este Sprint es completar la funcionalidad clave de la a
 | US 17          | Noticias Agrícolas| Task 17.1     | Integrar noticias agrícolas | Implementar la visualización de una lista de noticias relevantes sobre agricultura, actualizadas en tiempo real. | 3                      | Benedetti Rivas Lucas Sebastian         | Done            |
 | -              | Constraint        | Task C1       | Revisar seguridad y cumplimiento | Asegurarse de que las medidas de seguridad básicas están cubiertas antes de implementar el login.         | 5                      | Benedetti Rivas Lucas Sebastian         | In-Process           |
 
-### 6.2.1.3. Testing Suite Evidence for Sprint Review
+
+### 6.2.1.3. Development Evidence for Sprint Review
+| Repository          | Branch                   | Commit Id | Commit Message    | Commit Message Body                                                | Commited on (Date)   |
+|---------------------|--------------------------|-----------|-------------------|--------------------------------------------------------------------|----------------------|
+| user/repositoryname  | feature/news             | 14ca4e3   | feat: news added | news view added                                    | Sep 26, 2024         |
+| user/repositoryname  | feature/news             | c7b912f   | feat: dashboard news component added | component news                          | Sep 26, 2024         |
+| user/repositoryname  | feature/dashboard        | 3b9c0fe   | feat: dashboard added  | Dashboard functionality added for project management               | Sep 26, 2024         |
+| user/repositoryname  | feature/login            | 3c67a2e   | feat: login added      | Login functionality integrated                                      | Sep 26, 2024         |
+| user/repositoryname  | feature/createUser       | e2b1d4a   | feat: create user     | User creation functionality implemented                             | Sep 26, 2024         |
+| user/repositoryname  | feature/base             | 7a1b4f5   | feat: base project added | Initial base project structure added                               | Sep 26, 2024         |
+
+
+### 6.2.1.4. Testing Suite Evidence for Sprint Review
 
 Durante este Sprint, se desarrollaron y ejecutaron pruebas unitarias, de integración y de aceptación para garantizar la calidad de los Web Services relacionados con las User Stories especificadas en el Sprint. Se utilizaron archivos `.feature` bajo el enfoque BDD, con escenarios para validar el comportamiento esperado de los servicios. A continuación, se presenta una relación de los tests diseñados y sus commits correspondientes.
 
-### Tabla de Commits de Testing
+FALTA TABLA CON COMMITS DE TESTING
 
-| **Repository**         | **Branch**         | **Commit Id** | **Commit Message**                  | **Commit Message Body**                                                                                 | **Commited on (Date)** |
-|------------------------|--------------------|---------------|-------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------|
-| user/testing-repo       | feature/testing    | 14ca4e3       | test(lp): added unit tests for landing page | Se agregaron pruebas unitarias para validar la carga y visualización correcta de la landing page.          | 2024-09-20             |
-| user/testing-repo       | feature/bdd        | 2a6b7e9       | test(news): added BDD tests for news integration | Se implementaron pruebas BDD para validar la integración y visualización de noticias agrícolas.          | 2024-09-21             |
-| user/testing-repo       | feature/integration | 3d2e8f4       | test(auth): integration tests for login and registration | Se añadieron pruebas de integración para la autenticación y el registro de usuarios.                      | 2024-09-22             |
 
-### BDD Feature Files
-
-#### User Story: Integración de Noticias Agrícolas (US17)
-
-```gherkin
-Feature: Integración de Noticias Agrícolas
-  Como usuario de la aplicación, quiero ver noticias relevantes sobre agricultura para mantenerme informado.
-
-  Scenario: Visualización de Noticias Agrícolas
-    Given el usuario ha iniciado sesión en la aplicación
-    When selecciona la opción de noticias
-    Then se muestra una lista de noticias actualizadas relacionadas con la agricultura
+### 6.2.1.5. Execution Evidence for Sprint Review.
+### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+### 6.2.1.8. Team Collaboration Insights during Sprint
