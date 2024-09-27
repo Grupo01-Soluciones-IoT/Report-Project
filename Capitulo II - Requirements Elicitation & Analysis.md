@@ -438,13 +438,13 @@ Ambos agricultores mostraron apertura hacia la implementación de soluciones tec
 
 A continuación, se construirán los User Persona de cada segmento objetivo de nuestra aplicación. Para ello, se utilizarán los datos recolectados de las entrevistas realizadas; principalmente, los que muestran los objetivos, motivaciones y frustraciones con las que cuentan cada uno de los sectores que conforman al público al que va dirigida la aplicación. Es decir, se presentará tanto un estereotipo de un agricultor como el de un de un técnico agrícola. 
 
-### User Persona – Agricultor 
+### User Persona – Agricultor Pequeño
 
-<img src="images/User Persona Agricultor.png">
+<img src="images/User Persona Eleuterio.png">
 
-### User Persona – Técnico agrícola 
+### User Persona –  Técnico agrícola
 
-<img src="images/User Persona Tecnico.jpeg">
+<img src="images/User Persona Nikole.png">
 
 ### 2.3.2. User Task Matrix
 
@@ -477,15 +477,23 @@ El User Journey Mapping es una herramienta de Design Thinking que nos ayuda a gr
 
 ### User Journey Mapping – Agricultor 
 
-<img src="images/User Journey Mapping Agricultor.jpeg">
+<img src="images/Customer journey Agricultor.png">
 
 ### User Journey Mapping – Técnico agrícola 
+
+<img src="images/Customer journey Agricultor Mediano.png">
 
 ### 2.3.4. Empathy Mapping 
 
 Este proceso es crucial para alinearnos con las perspectivas y emociones de los usuarios finales, lo que nos permitirá diseñar soluciones que no solo cubran sus necesidades funcionales, sino que también generen una experiencia satisfactoria y emocionalmente positiva. El empathy map ayudará a identificar frustraciones, motivaciones y puntos de dolor, mejorando así el diseño y la usabilidad de nuestro producto.
 
-<img src="images/User Journey Mapping Tecnico.jpeg">
+### User Journey Mapping – Agricultor 
+
+<img src="images/Empathy map Agricultor.png">
+
+### User Journey Mapping – Técnico agrícola 
+
+<img src="images/Empathy map Agricultor Mediano.png">
 
 ### 2.3.5. As-is Scenario Mapping
 
