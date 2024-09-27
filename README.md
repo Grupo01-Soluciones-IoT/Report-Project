@@ -95,6 +95,35 @@ Se visualiza la cantidad de Commits que se realizaron dia a dia, se aprovecho el
   <img src="images/Commits1.png" alt="Insight" width="700"/>
 </p>
 
+## Collaboration Insights - TP:
+En este entregable, se desarrollo la documentacion de 4 capitulos, Solution UI/UX Design y Product Implementation, Validation & Deployment, a su vez para tener un seguimiento de las tareas para elaborar por cada colaborador se utilizo Notion: 
+
+<p align="center">
+  <img src="images/tp_notion.png" alt="Insight" width="700"/>
+</p>
+
+### Contributors:
+Se puede visualizar la cantidad de commits por cada colaborador, así como agregaciones y eliminaciones, así como la curva de colaboración, teniendo como pico fin de mes de Agosto.
+
+<img src="images/commits_general.png"/> 
+
+
+
+### Frontend App Web
+
+<img src="images/commits_general_front.png"/> 
+
+
+
+### Commits:
+Se visualiza la cantidad de Commits que se realizaron dia a dia, se aprovecho el dia 25 de Agosto, siendo fines de semana para desarrollar de manera continua.
+
+<img src="images/commits_participantes.png"/> 
+
+### Frontend App Web
+
+<img src="images/commits_participantes_front.png"/> 
+
 # Índice del Proyecto
 
 ## Capítulo I: Introducción
@@ -164,7 +193,7 @@ Se visualiza la cantidad de Commits que se realizaron dia a dia, se aprovecho el
 &nbsp;&nbsp;&nbsp;&nbsp;4.2.2.6. [Bounded Context Software Architecture Code Level Diagrams](./Capitulo%20IV%20-%20Solution%20Software%20Design.md#4226-bounded-context-software-architecture-code-level-diagrams)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2.2.6.1. [Bounded Context Domain Layer Class Diagrams](./Capitulo%20IV%20-%20Solution%20Software%20Design.md#42261-bounded-context-domain-layer-class-diagrams)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2.2.6.2. [Bounded Context Database Design Diagram](./Capitulo%20IV%20-%20Solution%20Software%20Design.md#42262-bounded-context-database-design-diagram)
-  
+
 ## Capítulo V: Solution UI/UX Design
 &nbsp;&nbsp;5.1. [Style Guidelines](Capitulo%20V%20-%20Solution%20UI%20UX%20Design.md#51-style-guidelines)  
 &nbsp;&nbsp;&nbsp;&nbsp;5.1.1. [General Style Guidelines](Capitulo%20V%20-%20Solution%20UI%20UX%20Design.md#511-general-style-guidelines)  
