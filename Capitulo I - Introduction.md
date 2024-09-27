@@ -90,7 +90,7 @@ Nuestro producto IAgroT abordará esta brecha al ofrecer un sistema de monitoreo
 
 Nuestro enfoque inicial será en pequeños y medianos agricultores que buscan mejorar su productividad y sostenibilidad en un mercado competitivo.
 
-Sabremos que hemos tenido éxito cuando veamos un aumento del 25% en la adopción de nuestra plataforma y una mejora del 30% en la eficiencia de producción reportada por los usuarios.
+Sabremos que hemos tenido éxito cuando obtengamos 200 usuarios activos y los ususarios reporten mejoras en eficiencia en sus cultivos en un tiempo de 6 meses desde el despliegue de la aplicacion.
 
 ### 1.2.2.2. Lean UX Assumptions
 #### Business Outcomes
@@ -112,7 +112,7 @@ Aspiramos a que el 20% de los usuarios que utilizan la plataforma opten por un p
 5. Referidos (Referral)
 Buscamos que al menos el 15% de nuestros usuarios actuales refieran a otros agricultores a nuestra plataforma a través de recomendaciones o programas de incentivos dentro del primer año.
 
-#### Users
+#### Users Outcomes
 
 Generamos un Prototype User
 
@@ -135,19 +135,12 @@ Consume contenido visual y tutoriales en Instagram sobre técnicas de cultivo.
 
 #### Users Outcomes & Benefits
 
-##### ¿Qué intenta lograr el usuario?
-Quiero optimizar el riego de mis cultivos para mejorar su rendimiento y reducir el uso de agua.
+En grupo, discutimos sobre los beneficios que puede tener el usuario final hacia nuestro proyecto bajo nuestro Proto Usuario.
 
-##### ¿Cómo quiere sentirse durante y después de este proceso?
-Quiero sentirme segura de que estoy tomando decisiones informadas y responsables sobre mis cultivos, y orgullosa de ver mejoras en mi producción.
-
-##### ¿Cómo se acerca nuestro producto o servicio al objetivo o sueño del usuario?
+Quiere optimizar el riego de mis cultivos para mejorar su rendimiento y reducir el uso de agua.
+Quiere sentirme segura de que estoy tomando decisiones informadas y responsables sobre mis cultivos, y orgullosa de ver mejoras en mi producción.
 IAgroT me ayuda a monitorear las condiciones del suelo y el clima en tiempo real, lo que me permite hacer ajustes en el riego de manera efectiva.
-
-##### ¿Por qué buscaría el usuario nuestro producto?
-Quiero acceder a información precisa y útil que me ayude a mejorar mi producción y a ser más eficiente en el uso de recursos.
-
-##### ¿Qué cambio de comportamiento podemos observar que indique que ha alcanzado su objetivo?
+Quiere acceder a información precisa y útil que me ayude a mejorar mi producción y a ser más eficiente en el uso de recursos.
 Laura ajusta sus patrones de riego en función de los datos que recibe de IAgroT y reporta un aumento en la producción de sus cultivos.
 
 #### Solution
